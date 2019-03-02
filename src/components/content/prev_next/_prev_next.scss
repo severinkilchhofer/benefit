@@ -1,0 +1,73 @@
+.prev_next {
+
+  @include l-site_width;
+  @include rem(margin-top, 3 * $gutter);
+  @include rem(margin-bottom, 3 * $gutter);
+
+  @include clearfix;
+  li {
+    float: left;
+    width: 50%;
+    position: relative;
+
+    &:first-child {
+      padding-right: .25em;
+    }
+
+    &:last-child {
+      float: right;
+      padding-left: .25em;
+    }
+  }
+
+  &__link {
+    display: block;
+
+    .text {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: block;
+      width: 100%;
+    }
+
+    &--previous {
+      &::before {
+        content: '👈';
+        font-size: 1.5em;
+        position: absolute;
+        top: -6px;
+      }
+
+      .text {
+        padding-left: 2em;
+      }
+    }
+
+    &--next {
+      text-align: right;
+
+      &::after {
+        position: absolute;
+        right: 0;
+        top: -6px;
+        font-size: 1.5em;
+        content: '👉';
+      }
+
+      .text {
+        padding-right: 2em;
+      }
+    }
+
+    &:hover {
+      text-decoration: underline;
+      color: var(--theme-color-dark);
+    }
+
+    &:focus {
+      outline: 2px dotted var(--theme-color-dark);
+      outline-offset: 2px;
+    }
+  }
+}

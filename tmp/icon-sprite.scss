@@ -1,0 +1,346 @@
+// SCSS variables are information about icon's compiled state, stored under its original file name
+//
+// .icon-home {
+//   width: $icon-home-width;
+// }
+//
+// The large array-like variables contain all information about a single icon
+// $icon-home: x y offset_x offset_y width height total_width total_height image_path;
+//
+// At the bottom of this section, we provide information about the spritesheet itself
+// $spritesheet: width height image $spritesheet-sprites;
+$book-name: 'book';
+$book-x: 28px;
+$book-y: 36px;
+$book-offset-x: -28px;
+$book-offset-y: -36px;
+$book-width: 28px;
+$book-height: 22px;
+$book-total-width: 112px;
+$book-total-height: 82px;
+$book-image: '../../img/icons/sprite-1x.png';
+$book: (28px, 36px, -28px, -36px, 28px, 22px, 112px, 82px, '../../img/icons/sprite-1x.png', 'book', );
+$books-name: 'books';
+$books-x: 92px;
+$books-y: 0px;
+$books-offset-x: -92px;
+$books-offset-y: 0px;
+$books-width: 20px;
+$books-height: 21px;
+$books-total-width: 112px;
+$books-total-height: 82px;
+$books-image: '../../img/icons/sprite-1x.png';
+$books: (92px, 0px, -92px, 0px, 20px, 21px, 112px, 82px, '../../img/icons/sprite-1x.png', 'books', );
+$bulb-name: 'bulb';
+$bulb-x: 64px;
+$bulb-y: 20px;
+$bulb-offset-x: -64px;
+$bulb-offset-y: -20px;
+$bulb-width: 18px;
+$bulb-height: 28px;
+$bulb-total-width: 112px;
+$bulb-total-height: 82px;
+$bulb-image: '../../img/icons/sprite-1x.png';
+$bulb: (64px, 20px, -64px, -20px, 18px, 28px, 112px, 82px, '../../img/icons/sprite-1x.png', 'bulb', );
+$magni-name: 'magni';
+$magni-x: 0px;
+$magni-y: 0px;
+$magni-offset-x: 0px;
+$magni-offset-y: 0px;
+$magni-width: 36px;
+$magni-height: 36px;
+$magni-total-width: 112px;
+$magni-total-height: 82px;
+$magni-image: '../../img/icons/sprite-1x.png';
+$magni: (0px, 0px, 0px, 0px, 36px, 36px, 112px, 82px, '../../img/icons/sprite-1x.png', 'magni', );
+$pin-name: 'pin';
+$pin-x: 36px;
+$pin-y: 0px;
+$pin-offset-x: -36px;
+$pin-offset-y: 0px;
+$pin-width: 28px;
+$pin-height: 28px;
+$pin-total-width: 112px;
+$pin-total-height: 82px;
+$pin-image: '../../img/icons/sprite-1x.png';
+$pin: (36px, 0px, -36px, 0px, 28px, 28px, 112px, 82px, '../../img/icons/sprite-1x.png', 'pin', );
+$point-left-name: 'point-left';
+$point-left-x: 0px;
+$point-left-y: 64px;
+$point-left-offset-x: 0px;
+$point-left-offset-y: -64px;
+$point-left-width: 28px;
+$point-left-height: 18px;
+$point-left-total-width: 112px;
+$point-left-total-height: 82px;
+$point-left-image: '../../img/icons/sprite-1x.png';
+$point-left: (0px, 64px, 0px, -64px, 28px, 18px, 112px, 82px, '../../img/icons/sprite-1x.png', 'point-left', );
+$point-right-name: 'point-right';
+$point-right-x: 64px;
+$point-right-y: 48px;
+$point-right-offset-x: -64px;
+$point-right-offset-y: -48px;
+$point-right-width: 22px;
+$point-right-height: 15px;
+$point-right-total-width: 112px;
+$point-right-total-height: 82px;
+$point-right-image: '../../img/icons/sprite-1x.png';
+$point-right: (64px, 48px, -64px, -48px, 22px, 15px, 112px, 82px, '../../img/icons/sprite-1x.png', 'point-right', );
+$setup-name: 'setup';
+$setup-x: 0px;
+$setup-y: 36px;
+$setup-offset-x: 0px;
+$setup-offset-y: -36px;
+$setup-width: 28px;
+$setup-height: 28px;
+$setup-total-width: 112px;
+$setup-total-height: 82px;
+$setup-image: '../../img/icons/sprite-1x.png';
+$setup: (0px, 36px, 0px, -36px, 28px, 28px, 112px, 82px, '../../img/icons/sprite-1x.png', 'setup', );
+$shake-name: 'shake';
+$shake-x: 64px;
+$shake-y: 0px;
+$shake-offset-x: -64px;
+$shake-offset-y: 0px;
+$shake-width: 28px;
+$shake-height: 20px;
+$shake-total-width: 112px;
+$shake-total-height: 82px;
+$shake-image: '../../img/icons/sprite-1x.png';
+$shake: (64px, 0px, -64px, 0px, 28px, 20px, 112px, 82px, '../../img/icons/sprite-1x.png', 'shake', );
+$book-2x-name: 'book-2x';
+$book-2x-x: 56px;
+$book-2x-y: 72px;
+$book-2x-offset-x: -56px;
+$book-2x-offset-y: -72px;
+$book-2x-width: 56px;
+$book-2x-height: 44px;
+$book-2x-total-width: 224px;
+$book-2x-total-height: 164px;
+$book-2x-image: '../../img/icons/sprite-2x.png';
+$book-2x: (56px, 72px, -56px, -72px, 56px, 44px, 224px, 164px, '../../img/icons/sprite-2x.png', 'book-2x', );
+$books-2x-name: 'books-2x';
+$books-2x-x: 184px;
+$books-2x-y: 0px;
+$books-2x-offset-x: -184px;
+$books-2x-offset-y: 0px;
+$books-2x-width: 40px;
+$books-2x-height: 42px;
+$books-2x-total-width: 224px;
+$books-2x-total-height: 164px;
+$books-2x-image: '../../img/icons/sprite-2x.png';
+$books-2x: (184px, 0px, -184px, 0px, 40px, 42px, 224px, 164px, '../../img/icons/sprite-2x.png', 'books-2x', );
+$bulb-2x-name: 'bulb-2x';
+$bulb-2x-x: 128px;
+$bulb-2x-y: 40px;
+$bulb-2x-offset-x: -128px;
+$bulb-2x-offset-y: -40px;
+$bulb-2x-width: 36px;
+$bulb-2x-height: 56px;
+$bulb-2x-total-width: 224px;
+$bulb-2x-total-height: 164px;
+$bulb-2x-image: '../../img/icons/sprite-2x.png';
+$bulb-2x: (128px, 40px, -128px, -40px, 36px, 56px, 224px, 164px, '../../img/icons/sprite-2x.png', 'bulb-2x', );
+$magni-2x-name: 'magni-2x';
+$magni-2x-x: 0px;
+$magni-2x-y: 0px;
+$magni-2x-offset-x: 0px;
+$magni-2x-offset-y: 0px;
+$magni-2x-width: 72px;
+$magni-2x-height: 72px;
+$magni-2x-total-width: 224px;
+$magni-2x-total-height: 164px;
+$magni-2x-image: '../../img/icons/sprite-2x.png';
+$magni-2x: (0px, 0px, 0px, 0px, 72px, 72px, 224px, 164px, '../../img/icons/sprite-2x.png', 'magni-2x', );
+$pin-2x-name: 'pin-2x';
+$pin-2x-x: 72px;
+$pin-2x-y: 0px;
+$pin-2x-offset-x: -72px;
+$pin-2x-offset-y: 0px;
+$pin-2x-width: 56px;
+$pin-2x-height: 56px;
+$pin-2x-total-width: 224px;
+$pin-2x-total-height: 164px;
+$pin-2x-image: '../../img/icons/sprite-2x.png';
+$pin-2x: (72px, 0px, -72px, 0px, 56px, 56px, 224px, 164px, '../../img/icons/sprite-2x.png', 'pin-2x', );
+$point-left-2x-name: 'point-left-2x';
+$point-left-2x-x: 0px;
+$point-left-2x-y: 128px;
+$point-left-2x-offset-x: 0px;
+$point-left-2x-offset-y: -128px;
+$point-left-2x-width: 56px;
+$point-left-2x-height: 36px;
+$point-left-2x-total-width: 224px;
+$point-left-2x-total-height: 164px;
+$point-left-2x-image: '../../img/icons/sprite-2x.png';
+$point-left-2x: (0px, 128px, 0px, -128px, 56px, 36px, 224px, 164px, '../../img/icons/sprite-2x.png', 'point-left-2x', );
+$point-right-2x-name: 'point-right-2x';
+$point-right-2x-x: 128px;
+$point-right-2x-y: 96px;
+$point-right-2x-offset-x: -128px;
+$point-right-2x-offset-y: -96px;
+$point-right-2x-width: 44px;
+$point-right-2x-height: 30px;
+$point-right-2x-total-width: 224px;
+$point-right-2x-total-height: 164px;
+$point-right-2x-image: '../../img/icons/sprite-2x.png';
+$point-right-2x: (128px, 96px, -128px, -96px, 44px, 30px, 224px, 164px, '../../img/icons/sprite-2x.png', 'point-right-2x', );
+$setup-2x-name: 'setup-2x';
+$setup-2x-x: 0px;
+$setup-2x-y: 72px;
+$setup-2x-offset-x: 0px;
+$setup-2x-offset-y: -72px;
+$setup-2x-width: 56px;
+$setup-2x-height: 56px;
+$setup-2x-total-width: 224px;
+$setup-2x-total-height: 164px;
+$setup-2x-image: '../../img/icons/sprite-2x.png';
+$setup-2x: (0px, 72px, 0px, -72px, 56px, 56px, 224px, 164px, '../../img/icons/sprite-2x.png', 'setup-2x', );
+$shake-2x-name: 'shake-2x';
+$shake-2x-x: 128px;
+$shake-2x-y: 0px;
+$shake-2x-offset-x: -128px;
+$shake-2x-offset-y: 0px;
+$shake-2x-width: 56px;
+$shake-2x-height: 40px;
+$shake-2x-total-width: 224px;
+$shake-2x-total-height: 164px;
+$shake-2x-image: '../../img/icons/sprite-2x.png';
+$shake-2x: (128px, 0px, -128px, 0px, 56px, 40px, 224px, 164px, '../../img/icons/sprite-2x.png', 'shake-2x', );
+$spritesheet-width: 112px;
+$spritesheet-height: 82px;
+$spritesheet-image: '../../img/icons/sprite-1x.png';
+$spritesheet-sprites: ($book, $books, $bulb, $magni, $pin, $point-left, $point-right, $setup, $shake, );
+$spritesheet: (112px, 82px, '../../img/icons/sprite-1x.png', $spritesheet-sprites, );
+$retina-spritesheet-width: 224px;
+$retina-spritesheet-height: 164px;
+$retina-spritesheet-image: '../../img/icons/sprite-2x.png';
+$retina-spritesheet-sprites: ($book-2x, $books-2x, $bulb-2x, $magni-2x, $pin-2x, $point-left-2x, $point-right-2x, $setup-2x, $shake-2x, );
+$retina-spritesheet: (224px, 164px, '../../img/icons/sprite-2x.png', $retina-spritesheet-sprites, );
+
+// These "retina group" variables are mappings for the naming and pairing of normal and retina sprites.
+//
+// The list formatted variables are intended for mixins like `retina-sprite` and `retina-sprites`.
+$book-group-name: 'book';
+$book-group: ('book', $book, $book-2x, );
+$books-group-name: 'books';
+$books-group: ('books', $books, $books-2x, );
+$bulb-group-name: 'bulb';
+$bulb-group: ('bulb', $bulb, $bulb-2x, );
+$magni-group-name: 'magni';
+$magni-group: ('magni', $magni, $magni-2x, );
+$pin-group-name: 'pin';
+$pin-group: ('pin', $pin, $pin-2x, );
+$point-left-group-name: 'point-left';
+$point-left-group: ('point-left', $point-left, $point-left-2x, );
+$point-right-group-name: 'point-right';
+$point-right-group: ('point-right', $point-right, $point-right-2x, );
+$setup-group-name: 'setup';
+$setup-group: ('setup', $setup, $setup-2x, );
+$shake-group-name: 'shake';
+$shake-group: ('shake', $shake, $shake-2x, );
+$retina-groups: ($book-group, $books-group, $bulb-group, $magni-group, $pin-group, $point-left-group, $point-right-group, $setup-group, $shake-group, );
+
+// The provided mixins are intended to be used with the array-like variables
+//
+// .icon-home {
+//   @include sprite-width($icon-home);
+// }
+//
+// .icon-email {
+//   @include sprite($icon-email);
+// }
+//
+// Example usage in HTML:
+//
+// `display: block` sprite:
+// <div class="icon-home"></div>
+//
+// To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+//
+// // CSS
+// .icon {
+//   display: inline-block;
+// }
+//
+// // HTML
+// <i class="icon icon-home"></i>
+@mixin sprite-width($sprite) {
+  width: nth($sprite, 5);
+}
+
+@mixin sprite-height($sprite) {
+  height: nth($sprite, 6);
+}
+
+@mixin sprite-position($sprite) {
+  $sprite-offset-x: nth($sprite, 3);
+  $sprite-offset-y: nth($sprite, 4);
+  background-position: $sprite-offset-x  $sprite-offset-y;
+}
+
+@mixin sprite-image($sprite) {
+  $sprite-image: nth($sprite, 9);
+  background-image: url(#{$sprite-image});
+}
+
+@mixin sprite($sprite) {
+  @include sprite-image($sprite);
+  @include sprite-position($sprite);
+  @include sprite-width($sprite);
+  @include sprite-height($sprite);
+}
+
+// The `retina-sprite` mixin sets up rules and a media query for a sprite/retina sprite.
+//   It should be used with a "retina group" variable.
+//
+// The media query is from CSS Tricks: https://css-tricks.com/snippets/css/retina-display-media-query/
+//
+// $icon-home-group: ('icon-home', $icon-home, $icon-home-2x, );
+//
+// .icon-home {
+//   @include retina-sprite($icon-home-group);
+// }
+@mixin sprite-background-size($sprite) {
+  $sprite-total-width: nth($sprite, 7);
+  $sprite-total-height: nth($sprite, 8);
+  background-size: $sprite-total-width $sprite-total-height;
+}
+
+@mixin retina-sprite($retina-group) {
+  $normal-sprite: nth($retina-group, 2);
+  $retina-sprite: nth($retina-group, 3);
+  @include sprite($normal-sprite);
+
+  @media (-webkit-min-device-pixel-ratio: 2),
+         (min-resolution: 192dpi) {
+    @include sprite-image($retina-sprite);
+    @include sprite-background-size($normal-sprite);
+  }
+}
+
+// The `sprites` mixin generates identical output to the CSS template
+//   but can be overridden inside of SCSS
+//
+// @include sprites($spritesheet-sprites);
+@mixin sprites($sprites) {
+  @each $sprite in $sprites {
+    $sprite-name: nth($sprite, 10);
+    .#{$sprite-name} {
+      @include sprite($sprite);
+    }
+  }
+}
+
+// The `retina-sprites` mixin generates a CSS rule and media query for retina groups
+//   This yields the same output as CSS retina template but can be overridden in SCSS
+//
+// @include retina-sprites($retina-groups);
+@mixin retina-sprites($retina-groups) {
+  @each $retina-group in $retina-groups {
+    $sprite-name: nth($retina-group, 1);
+    .#{$sprite-name} {
+      @include retina-sprite($retina-group);
+    }
+  }
+}

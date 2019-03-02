@@ -1,0 +1,163 @@
+.cardmenu {
+
+}
+
+.cardmenu--list--item {
+  display: inline-block;
+}
+.cardmenu--list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -10px;
+
+    .text_container & {
+      margin: 40px -10px;
+    }
+}
+.cardmenu--list--item {
+    display: inline-block;
+    margin: 10px;
+    width: calc(100% / 4 - 20px);
+
+    .text_container & {
+      padding: 0;
+
+      &::before {
+        display: none;
+      }
+    }
+
+    @include mobile-narrow {
+      width: calc(100% / 2 - 20px);
+    }
+    @include mobile-portrait {
+      width: calc(100% / 1 - 20px);
+    }
+
+    .cardmenu-default & {
+      width: calc(100% / 2 - 20px);
+      @include mobile-portrait {
+        width: calc(100% / 1 - 20px);
+      }
+    }
+}
+.cardmenu--card {
+  @include font-xs;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .cardmenu--card--inner {
+    height: auto;
+    flex: 1 0 auto;
+    min-height: 0;
+  }
+}
+.cardmenu--card--lead {
+  display: inline-block;
+}
+
+.cardmenu--card--link {
+  @include card;
+  box-shadow: 0 22px 30px -27px rgba(0, 0, 0, 0.3);
+  @include theme-isLight {
+    box-shadow: 0 10px 34px 0 rgba(0, 0, 0, 0.2);
+  }
+  font-weight: 300;
+  width: 100%;
+  height: 100%;
+
+  &:hover,
+  &:focus {
+    &.cardmenu--card--link-introduction {
+      @include theme(border-color, 0);
+    }
+    &.cardmenu--card--link-setup {
+      @include theme(border-color, 1);
+    }
+    &.cardmenu--card--link-knowledge {
+      @include theme(border-color, 2);
+    }
+    &.cardmenu--card--link-examples {
+      @include theme(border-color, 3);
+    }
+
+    outline: none;
+
+  }
+
+  .text_container & {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: inherit;
+    }
+  }
+}
+
+.cardmenu--card--icon {
+  display: inline-block;
+  width: auto;
+  height: 35px;
+  &:after {
+    content: "";
+    display: inline-block;
+  }
+}
+
+.cardmenu--card-part {
+  text-align: center;
+
+  .cardmenu--card--icon {
+    display: block;
+    margin: 0 auto;
+    height: 35px;
+
+    .cardmenu--card--link-introduction & {
+      &:after {
+        @include sprite($shake);
+      }
+    }
+    .cardmenu--card--link-setup & {
+      &:after {
+        @include sprite($setup);
+      }
+    }
+    .cardmenu--card--link-knowledge & {
+      &:after {
+        @include sprite($bulb);
+      }
+    }
+    .cardmenu--card--link-examples & {
+      &:after {
+        @include sprite($book);
+      }
+    }
+  }
+}
+
+.cardmenu--card-default {
+  .cardmenu--card--label {
+    display: inline-block;
+    margin-bottom: .5em;
+    font-weight: 500;
+    color: var(--theme-color-dark);
+  }
+
+  .cardmenu--card--linklabel {
+    margin-top: 20px;
+    vertical-align: middle;
+    display: black;
+    text-align: right;
+    color: var(--theme-color-dark);
+  }
+  .cardmenu--card--icon {
+    vertical-align: middle;
+    height: 20px;
+     &:after {
+      @include sprite($books);
+    }
+  }
+}

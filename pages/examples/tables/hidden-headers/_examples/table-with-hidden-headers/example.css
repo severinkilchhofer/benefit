@@ -1,0 +1,35 @@
+.visually-hidden {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.table {
+  border-left: 1px solid;
+  border-bottom: 1px solid;
+  display: table;
+}
+
+.tr {
+  display: table-row;
+}
+
+.th, .td {
+  border-top: 1px solid;
+  border-right: 1px solid;
+  padding: 4px 8px;
+  display: table-cell;
+}
+
+.th {
+  font-weight: bold;
+}
+.th[role="rowheader"] {
+  background-color: lightgreen;
+}
+.th[role="columnheader"] {
+  background-color: lightpink;
+}

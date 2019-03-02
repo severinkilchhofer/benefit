@@ -1,0 +1,69 @@
+.breadcrumbs {
+  position: relative;
+  padding-top: $gutter;
+  padding-bottom: $gutter;
+
+  @include mobile {
+    padding-top: $gutter;
+    padding-bottom: $gutter / 4;
+  }
+
+  h2 {
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-right: 0.25em;
+  }
+  @include above-mobile {
+    &:after {
+      @include navbar_white_line__pseudo;
+      left: -50vw; right: -50vw;
+      bottom: 0;
+      height: 1px;
+    }
+  }
+}
+.breadcrumbs--inner {
+  @include l-site_width;
+  min-height: $logo_height + 1px; // todo: find out why +1?
+  &:before {
+    content: "📍";
+    font-size: 1.5em;
+    vertical-align: middle;
+  }
+}
+
+.breadcrumbs--list {
+    display: inline-block;
+    font-size: 0;
+}
+
+.breadcrumbs--list--item {
+    display: inline-block;
+    & + & {
+        margin-left: $gutter / 4;
+    }
+
+    &:last-child {
+        a:after {
+            display: none;
+        }
+    }
+}
+
+.breadcrumbs--list--item--link {
+    font-weight: 300;
+    display: block;
+    @include font-xs;
+    &:after {
+        content: "/";
+        padding-left: $gutter / 4;
+        display: inline-block;
+    }
+    //.is-back-link &,
+    &:hover, &:focus {
+      @include theme(color, var(--theme-color-dark));
+      text-decoration: underline;
+      outline: none;
+    }
+}

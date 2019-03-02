@@ -1,0 +1,14 @@
+{{#if breadcrumb}}
+<div class="breadcrumbs">
+  <div class="breadcrumbs--inner">
+    <h2>You are here:</h2>
+    <ol class="breadcrumbs--list">
+      {{#each breadcrumb}}
+        <li class="breadcrumbs--list--item{{#if @last}} is-back-link{{/if}}">
+            <a class="breadcrumbs--list--item--link" href="/{{url}}">{{title}}</a>
+        </li>
+      {{/each}}
+    </ol>
+  </div>
+</div>
+{{/if}}

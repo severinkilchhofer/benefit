@@ -1,0 +1,35 @@
+
+.logo {
+  margin-left: $gutter;
+  @media (max-width: $navWidthMax + $site-maxWidth) {
+    margin-left: ($navWidthMin - $logo_width) / 2;
+  }
+	text-decoration: none;
+  overflow: hidden;
+  display: block;
+  &:hover {
+    color: var(--theme-color-dark);
+  }
+
+  &:focus {
+    outline: 2px dotted var(--theme-color-dark);
+    outline-offset: 2px;
+  }
+  .logo-title,
+  .logo-img {
+    vertical-align: middle;
+  }
+  .logo-img {
+    display: inline-block;
+  }
+}
+
+.logo-title {
+  display: none; // bring back on menu open
+  @include font-xxs;
+  line-height: 1.05;
+  text-transform: uppercase;
+  width: 0;
+  padding-left: .5em;
+  margin: -2px 0;
+}

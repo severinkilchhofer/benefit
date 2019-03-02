@@ -1,0 +1,48 @@
+.nav-list {
+	&-main {
+		margin-top: - $gutter / 2;
+		& > .nav-list--item {
+			padding-left: $gutter;
+			& > .nav-list--link {
+				display: block;
+				padding: $gutter / 3 0;
+			}
+		}
+	}
+	&-subnav {
+		margin-left: 20px;
+	}
+}
+.nav-list--item {
+  &:last-child {
+    // Does not look good in my opinion.
+    // margin-bottom: $gutter;
+  }
+  &-inactive {
+    display: none;
+  }
+}
+.nav-list--link {
+	display: block;
+	padding: $gutter / 4 0;
+  position: relative;
+  font-weight: 300;
+  line-height: 1.25;
+	&-current {
+    @include theme(color, var(--theme-color-dark));
+    font-weight: 500;
+	}
+	&-active {
+	}
+  &:hover, &:focus {
+    @include theme(color, var(--theme-color-dark));
+    text-decoration: underline;
+    outline: none;
+  }
+
+  .nav-list--item-level1 > & {
+    font-family: $brand-font;
+    letter-spacing: 0.1em;
+    font-size: 24px;
+  }
+}
