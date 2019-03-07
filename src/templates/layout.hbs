@@ -2,18 +2,7 @@
 <html lang="en">
 <head>
 
-  <title>{{title}} - ADG</title>
-  <!--
-          ___    ____  ______
-         /   |  / __ \/ ____/
-        / /| | / / / / / __
-       / ___ |/ /_/ / /_/ /
-      /_/  |_/_____/\____/
-
-  ACCESSIBILITY DEVELOPER GUIDE - «Access for all»
-  in cooperation with the web agencies Hinderling Volkart, Unic, Liip and Zeix
-
-  -->
+  <title>{{title}} - Benefit</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -37,11 +26,10 @@
 <body class="js-theme theme{{#if section }} theme-{{section}}{{/if}}">
   <div id="body">
     <div id="main">
-      <a id="jump" href="#main-h1">Jump to content</a>
       </header>
       {{> "global/navbar/navbar"}}
       <main id="main-content" class="site-content">
-        {{> "global/breadcrumbs/breadcrumbs"}}
+        <!--{{> "global/breadcrumbs/breadcrumbs"}}-->
         <div class="l-site_width">
           {{#if contents}}
 {{> "content/text_container/text_container" content=contents}} {{!-- needs to have zero space indenting for code examples --}}
@@ -51,9 +39,9 @@
           {{/if}}
         </div>
 
-        {{> "content/prev_next/prev_next" prev=previousPage next=nextPage}}
+        <!--{{> "content/prev_next/prev_next" prev=previousPage next=nextPage}}-->
       </main>
-      {{> "global/footer/footer"}}
+      <!--{{> "global/footer/footer"}}-->
     </div>
   </div>
   <script src="/js/vendor.js"></script>

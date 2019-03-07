@@ -1,9 +1,9 @@
 ---
 navigation_title: "Welcome"
 position: 1
-changed: "2018-05-06"
+changed: "2019-02-02"
 ---
 
-# Welcome to the Accessibility Developer Guide!
+# Willkommen auf der Projektseite von Benefit
 
-**If you want to learn about accessible website development, you are at the right place.**
+**Viel Spass bei uns!**
