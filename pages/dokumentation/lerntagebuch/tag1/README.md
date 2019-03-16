@@ -10,9 +10,8 @@ changed: "2019-02-22"
 
 
 ## Zusammenfassung Tag 1
-### UUID Lernplattform ‘Superlearner’ Lern-Facts
 #### Titel
-?
+UUID Lernplattform ‘Superlearner’ Lern-Facts
 #### Datum
 22.02.2019
 #### Gruppe
@@ -38,4 +37,4 @@ Nichts spezifisches.
 #### Was/wer kann euch dabei helfen?
 Wir (unser Team) kann uns helfen an alles zu denken. Wollen wir HCD machen, sollten wir möglichst früh mit Betroffenen Personen sprechen und ihr Umfeld analysieren.
 #### Fragen?
-–
+Keine
