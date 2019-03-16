@@ -27,3 +27,6 @@ Alle Gruppen pitchen ihre Apps. Nach dem Pitch erstellen wir einen ersten Wirefr
 * Dokumentation
 * About
 
+
+#### Prototyp
+Wir haben einen ersten [Prototyp](https://notch-interactive.invisionapp.com/share/GKR1N2D6CWU#/screens/352597755) erstellt. Dieser ist ist als Wireframe+ aufgebaut.
