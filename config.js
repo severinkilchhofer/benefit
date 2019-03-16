@@ -1,6 +1,6 @@
 module.exports = {
   url: 'https://www.accessibility-developer-guide.com',
-  title: 'Accessibility Developer Guide',
+  title: 'Benefit',
   description: '', // TODO: Add
   twitter: '', // TODO: Add
   media: {
@@ -11,8 +11,8 @@ module.exports = {
   },
   copyright: 'MIT',
   author: {
-    name: 'Access For All',
-    email: 'adg@access-for-all.ch',
-    link: 'http://www.access-for-all.ch'
+    name: 'Benefit',
+    email: 'info@benefit.ch',
+    link: 'http://www.github.com'
   }
 }
