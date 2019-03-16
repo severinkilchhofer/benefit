@@ -5,7 +5,7 @@ changed: "2019-03-16"
 ---
 
 # Persona
-![Persona](_media/benutzergruppen_persona.png)
+![Persona](_media/benutzergruppen_persona.jpg)
 
 
 #### Szenario
