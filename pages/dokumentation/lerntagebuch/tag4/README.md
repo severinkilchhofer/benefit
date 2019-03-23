@@ -4,29 +4,32 @@ position: 4
 changed: "2019-02-22"
 ---
 
-# Tag 4 – 190315 
+# Tag 4 – 190316 
 
-> Projekt-Pitch (20Sek)
-Titel – "Fabian" stell dir vor 'Zielgruppe' wird 'Tätigkeit', sodass 'Nutzen' und sich so fühlen 'Emotionen'.
+#### Titel
+UUID Lernplattform ‘Superlearner’ Lern-Facts
+#### Datum
+16.03.2019
+#### Gruppe
+Benefit
+#### Thema
+Pitches, Designgrundlagen
+#### Was haben wir gelernt?
+Wir habe drei Designgrundlagen angeschaut. 
+* Dialoggestaltung
+* Gestaltgesetze
+* Simplicity
+Es ist wichtig, sich an mindestens eines dieser Gesetze zu halten um für die Struktur und das Design argumentieren zu können.
 
-> Fabian stell dir vor, Studenten wird lernen in Lerngruppen ermöglicht, sodass sie lernen mit sozialen Benefits verbinden können und sich glücklich fühlen.
-
-> ![Projekt Vorsstellung](_media/projekt_vorstellung.jpg)
-
-#### Tasks
-Alle Gruppen pitchen ihre Apps. Nach dem Pitch erstellen wir einen ersten Wireframe Prototyp, den wir vom Paper Prototyp ableiten.
-
-[Hier](https://docs.google.com/presentation/d/1m42qlWrGu3DFaPCe-TEAgTFd6RnvrMlh27I1n7TunEA/edit#slide=id.g528509c058_0_201) unser gesamter Pitch.
- ![Projekt Vorsstellung](_media/praesentation_slide.jpg)
-
-
-#### Struktur Website definiert:
-* Übersicht
-* Konzeption/Research
-* Prototyping
-* Dokumentation
-* About
-
-
-#### Prototyp
-Wir haben einen ersten [Prototyp](https://notch-interactive.invisionapp.com/share/GKR1N2D6CWU#/screens/352597755) erstellt. Dieser ist ist als Wireframe+ aufgebaut.
+#### Was war das Highlight?
+Die Vorträge der verschiedenen Gesetze waren amüsant.
+#### Artefakte, die wir erstellt und abgegeben haben:
+* Pitch
+* Klickbarer "Wireframe"-Dummy
+#### Was war schwierig?
+Die verschiedenen Wireframe Ebenen hierarchisch korrekt umzusetzen.
+#### Was war das Lowlight?
+–
+#### Was/wer kann euch dabei helfen?
+–
+#### Fragen?

@@ -6,11 +6,8 @@ changed: "2019-02-22"
 
 # Tag 2 – 190301
 
-
-### UUID Lernplattform ‘Superlearner’ Lern-Facts
-
 #### Titel
-?
+UUID Lernplattform ‘Superlearner’ Lern-Facts
 #### Datum
 01.03.2019
 #### Gruppe
@@ -31,3 +28,4 @@ Der Zeitplan war schon sehr sportlich. Es ist schwierig in solch kurzen Sprints 
 #### Was/wer kann euch dabei helfen?
 Routine.
 #### Fragen?
+–
