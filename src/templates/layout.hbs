@@ -32,6 +32,9 @@
           {{#if contents}}
 {{> "content/text_container/text_container" content=contents}} {{!-- needs to have zero space indenting for code examples --}}
           {{/if}}
+          {{#if subPages}}
+            {{> "content/cardmenu/cardmenu" menuitem=subPages}}
+          {{/if}}
         </div>
 
       </main>
