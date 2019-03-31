@@ -8,6 +8,7 @@
 @mixin font-xxl {
 	@include font-size(86px);
 	line-height: 1.1;
+	font-weight: bold;
 }
 
 @mixin font-xl {
