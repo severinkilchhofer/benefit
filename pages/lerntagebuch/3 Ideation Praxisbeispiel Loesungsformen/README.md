@@ -1,10 +1,10 @@
 ---
-navigation_title: "Tag 3"
+navigation_title: "Ideation, Praxisbeispiele & Lösungsformen"
 position: 3
 changed: "2019-02-22"
 ---
 
-# Tag 3 – 190308
+# Ideation, Praxisbeispiele & Lösungsformen
 #### Titel
 UUID Lernplattform ‘Superlearner’ Lern-Facts
 #### Datum

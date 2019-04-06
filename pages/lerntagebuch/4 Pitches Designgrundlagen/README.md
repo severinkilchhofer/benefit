@@ -1,10 +1,10 @@
 ---
-navigation_title: "Tag 4"
+navigation_title: "Pitches & Designgrundlagen"
 position: 4
 changed: "2019-02-22"
 ---
 
-# Tag 4 – 190316 
+# Pitches & Designgrundlagen 
 
 #### Titel
 UUID Lernplattform ‘Superlearner’ Lern-Facts

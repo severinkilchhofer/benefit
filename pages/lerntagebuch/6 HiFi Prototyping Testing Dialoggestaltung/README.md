@@ -1,10 +1,10 @@
 ---
-navigation_title: "Tag 6"
+navigation_title: "HiFi Prototyping, Testing, Dialoggestaltung & Präsentation"
 position: 6
 changed: "2019-02-22"
 ---
 
-# Tag 5 – 190322 
+# HiFi Prototyping, Testing, Dialoggestaltung & Präsentation 
 #### Titel
 UUID Lernplattform ‘Superlearner’ Lern-Facts
 #### Datum
@@ -12,7 +12,7 @@ UUID Lernplattform ‘Superlearner’ Lern-Facts
 #### Gruppe
 Benefit
 #### Thema
-Usability Walkthrough,  SUS Fragebogen, EMO Cards
+HiFi Prototyping & TestingDialoggestaltung
 #### Was haben wir gelernt?
 Wir haben Feedback von zwei Usability Walkthroughs gemacht, das Feedback aus diesen diskutiert und das Wireframe angepasst.
 #### Was war das Highlight?
