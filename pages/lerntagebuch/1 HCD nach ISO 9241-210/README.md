@@ -22,20 +22,27 @@ Mittels der Bedürfnispyramide von Jesse James Garret können wir die einzelnen 
 
 
 ## Highlight & Lowlight
-
-
+### Das Highlight
 UX ist nicht nur die Nutzung auf dem UI. Das Produkt muss immer als Ganzes gesehen werden – inklusive Verpackung, Vermarktung, Phase nach der Nutzung, etc. All das zusammen ist das UX.
-#### Artefakte, die wir erstellt und abgegeben haben: 
-Zu zweit haben uns Gedanken gemacht wie ein MP3 Player für Vorschulkinder aussehen könnte und welche Features er haben muss. Dafür haben wir uns Bilder der IST Situation vom Umfeld angeschaut > vor Ort zu gehen und mit Betroffenen zu sprechen wäre ideal.
-Für unsere Haupt-Gruppenarbeit haben wir Ideen gesammelt, ein Mindmap erstellt und alles niedergeschrieben was uns betreffend lernen eingefallen ist.
-#### Was war schwierig?
-Die einzelnen Schritte/Phasen richtig einzuordnen.
-#### Was war das Lowlight?
-Nichts spezifisches.
-#### Was/wer kann euch dabei helfen?
-Wir (unser Team) kann uns helfen an alles zu denken. Wollen wir HCD machen, sollten wir möglichst früh mit Betroffenen Personen sprechen und ihr Umfeld analysieren.
-#### Fragen?
-Keine
 
+### Das Lowlight
+Welches Lowlight? :)
+
+## Artefakte, die wir erstellt & abgegeben haben
+Zu zweit haben uns Gedanken gemacht wie ein MP3 Player für Vorschulkinder aussehen könnte und welche Features er haben muss. Dafür haben wir uns Bilder der IST-Situation vom Umfeld angeschaut. Sich vor Ort zu begeben und mit Betroffenen zu sprechen wäre ideal. So können wir durch die Needs der Benutzer eruieren indem wir mit diesen sprechen und aktiv beobachten.
+
+Für unsere Haupt-Gruppenarbeit, die Lern-App haben wir Ideen gesammelt, ein Mindmap erstellt, sowie alles niedergeschrieben was uns betreffend lernen eingefallen ist.
 
 ![Mindmap Tag 1](_media/mindmap_tag1.jpg)
+
+
+## Schwierigkeiten & Fragen
+### Schwierigkeiten
+In der Findungsphase wären die Enduser die richtigen Ansprechpersonen. Für unser Projekt können und müssen wir uns selber helfen und nehmen dankend die Hilfe von Armin entgegen. Die einzelnen Schritte/Phasen richtig einzuordnen hat uns doch ein wenig struggeln lassen.
+
+### Fragen
+Wir haben ganz viele Fragen, jedoch können wir diese nicht alle heute beantworten.
+
+
+
+
