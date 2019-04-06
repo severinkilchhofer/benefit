@@ -18,6 +18,8 @@ https://uxplanet.org/2019-ui-and-ux-design-trends-92dfa8323225
 ## Trend 1 – Navigation 2.0
 Der Trend geht 2019 ganz in Richtung Bottom Navigation und Gestensteuerung in Form von SwipeUp Bewegungen. Grund für diese Entwicklung sind die immer grösseren Displays, dadurch wird eine einfach erreichbare Navigation im unteren Bereich der App immer essenzieller für eine flüssige User-Experience.
 
+![Navigationsmöglichkeiten](_media/Design_navi.png)
+
 ## Trend 2 – Design Systeme
 Eine gut fundierte Grundlage beim Aufbau eines Designs wird immer wichtiger. Durch den technischen Fortschritt werden dem User immer mehr Möglichkeiten geboten, sich durch eine App zu bewegen. Der User ist sich durch exzellent ausgearbeitete und weitverbreitete Applikationen einen immer höheren Standard gewohnt. Das Design muss nicht nur gut aussehen, es muss den User führen.
 
