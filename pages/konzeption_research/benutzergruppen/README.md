@@ -4,6 +4,8 @@ position: 2
 changed: "2018-06-15"
 ---
 
+// TODO Sevi
+Übersicht über die Funktion von Benutzergruppen
 
 ![Benutzergruppen Übersicht](_media/benutzergruppen_uebersicht.jpg)
 

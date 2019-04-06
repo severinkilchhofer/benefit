@@ -5,6 +5,9 @@ changed: "2019-02-22"
 ---
 
 # Interview mit Marc
+// TODO Sevi
+**Hier kommt das Intro für das Interview von Marc hin**
+
 
 #### 1. Wie ist dein individuelles Lernverhalten? Lernst du lieber alleine oder lernst du mit anderen? – Bei der letzten Prüfung wie hast du es da gemacht?
 
@@ -13,7 +16,6 @@ Themen die nicht verstanden werden, will er in der Gruppe diskutieren. Man kommt
 
 Er bevorzugt Leute mit dem gleichen Level. 
 Für spezifische Fragen gerne einen Experten beiziehen.
-
 
 
 #### 2. Wie sieht dein Ausgleich zum Lernen aus?
