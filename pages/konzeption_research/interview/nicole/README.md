@@ -6,6 +6,8 @@ changed: "2019-02-22"
 
 # Interview mit Nicole
 
+
+
 #### 1. Wie ist dein individuelles Lernverhalten? Lernst du lieber alleine oder lernst du mit anderen? – Bei der letzten Prüfung wie hast du es da gemacht?
 
 Sucht sich Unterlagen zusammen und gleicht alles mit den Lernzielen ab. Schreibt für sich Zusammenfassungen. 
@@ -17,12 +19,12 @@ Gewisse Sachen müssen einfach alleine gelernt werden, es ist sehr Themenabhäng
 Lernen mit Leuten die gar nichts mit dem Thema zu tun habe, bilden für sie auch einen sehr grossen Lerneffekt. Diese stellen unbefangene Fragen zum Thema und mann kann es ihnen erklären.
 
 
-
 #### 2. Wie sieht dein Ausgleich zum Lernen aus?
 
 Hat eigentlich keine Zeit für einen Ausgleich, während einer Lernphase. Sie macht zwischendurch Pausen um etwas anderes machen, Fitness zum Beispiel. 
 
 Umgibt sich nicht extra mit Leuten vom Fach, schaut was sich ergibt.
+
 
 #### 3. Wie knüpfst du neue Kontakte?
 
@@ -37,20 +39,20 @@ Leute vom Fach sind schwieriger zu finden. Würden beim Lernen sicherlich helfen
 In Gruppen besser angenehmer, meetup style. Alleine ist es zu intim. Jedoch kann mann in der Gruppe auch ein wenig untergehen. Zusätzlich kann man so auch eher hemmungen haben. Wenn es um Feedback geht ist eine einzelne Person dann doch besser.
 
 #### Nicole:
-* Pains
-    * Gönnt sich keinen Ausgleich
-    * Zeitplan
-    * Vertrauen gegenüber neuen Bekanntschaften
-    * Unsicherheit vor neuen Gruppen (geschlossener Kreis)
-    * Experten kennenlernen
+**Pains**
+*    Gönnt sich keinen Ausgleich
+*    Zeitplan
+*    Vertrauen gegenüber neuen Bekanntschaften
+*    Unsicherheit vor neuen Gruppen (geschlossener Kreis)
+*    Experten kennenlernen
 
-* Gains
-    * Zusammenfassungen alleine
-    * Erklärt gerne den Inhalt unwissenden Personen
-    * Hat soziale Kontakte zum lernen
+**Gains**
+*    Zusammenfassungen alleine
+*    Erklärt gerne den Inhalt unwissenden Personen
+*    Hat soziale Kontakte zum lernen
 
-* Jobs
-    * Organisiert ihren Lehrplan
-    * Zeiteinteilung
-    * Material zusammentragen
+**Jobs**
+*    Organisiert ihren Lehrplan
+*    Zeiteinteilung
+*    Material zusammentragen
     

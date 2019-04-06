@@ -32,21 +32,21 @@ Er findet es unwahrscheinlich dass man Leute einfach über Facebook zum Beispiel
 
 
 #### Marc:
-* Pains
-    * Unklarheiten bleiben offen
-    * keine Hilfe
-    * Einseitige Ideen/Sichtweise
-    * Verschiedene Levels/Intellekt
-    * Experten finden/beiziehen
+**Pains**
+*    Unklarheiten bleiben offen
+*    keine Hilfe
+*    Einseitige Ideen/Sichtweise
+*    Verschiedene Levels/Intellekt
+*    Experten finden/beiziehen
 
-* Gains
-    * lernt lieber alleine
-    * kurze Lern-Interwalle
-    * Mehr Freizeit
-    * Alles alleine planen ohne Rücksicht auf andere
-    * Erklärt gerne Unwissenden 
+**Gains**
+*    lernt lieber alleine
+*    kurze Lern-Interwalle
+*    Mehr Freizeit
+*    Alles alleine planen ohne Rücksicht auf andere
+*    Erklärt gerne Unwissenden 
 
-* Jobs
-    * Organisieren
-    * Ausgleich planen
-    * Gleichgesinnte treffen (Schule, Gaming, Freundeskreis)
+**Jobs**
+*    Organisieren
+*    Ausgleich planen
+*    Gleichgesinnte treffen (Schule, Gaming, Freundeskreis)
