@@ -5,7 +5,7 @@ changed: "2019-02-22"
 ---
 
 # Interview mit Nicole
-
+**Hier kommt das Intro für das Interview von Nicole hin**
 
 
 #### 1. Wie ist dein individuelles Lernverhalten? Lernst du lieber alleine oder lernst du mit anderen? – Bei der letzten Prüfung wie hast du es da gemacht?
