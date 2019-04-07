@@ -31,3 +31,29 @@ Grundsätzlich gibt es Buttons im active Zustand und im inactive Zustand. Active
 ### Navigation
 ![Bottom Navigation](_media/Navigation_bottom.png)
 Die Bottom-Navigation stellt das Herzstück unserer App dar. Durch diese kann der User durch die 3 Hauptbereiche der App navigieren. Der aktive Menüpunkt wird hierbei immer mit der Actionfarbe markiert. Die restlichen Menüpunkte sind mit Grau als inaktiv gekennzeichnet.
+
+### Suchfeld
+![Suchfeld](_media/Design_Deep_Flat.png)
+Das Suchfeld lässt sich vom Design her, wie beim Research-Teil erklärt, dem Deep-Flat-Trend zuordnen. Durch den Schatten hebt sich das Feld von den Buttons am und benötigt so nur eine leichte Outline um die Sichtbarkeit auf allen Screens zu gewährleisten. Um den User den Hinweis auf die Suche zu symbolisieren, ist ein Search-Icon in der Actionfarbe im Feld eingebetet. Zusätzlich wird im Feld selber darauf hingewiesen was hier möglich ist.
+
+### Formfields
+![Formfields](_media/Formfields.png)
+Die Formfields sind in ihrer Erscheinung eher einfach gehalten. Dem User soll genügend Platz geboten werden um mit den Feldern zu interagieren. Zusätzlich haben alle Felder innerhalb und ausserhalb ein Label, somit ist jederzeit die klar was für Informationen beim jeweiligen Field verlangt werden.
+
+Zusätzlich wird hier wieder mit der Actionfarbe gearbeitet um dem User klar zu zeigen, hier ist eine Interaktion möglich.
+
+### Tabs
+![Tabs](_media/Tab.png)
+Die Tabs ermöglichen dem User die Navigation auf einer tieferern Ebene. Hierbei kann der gesamte Inhalt mittels Click ausgetauscht werden. Wieder wird hier die aktive Section mit der Actionfarbe gekennzeichnet.
+
+### Event Cards
+![Tabs](_media/eventscards.png)
+Die Eventcards ermöglichen es dem User mit aktuellen oder vergangenen Events zu interagieren. Auf den Cards findet der User diverse Informationen die einen schnellen Scann der Events ermöglichen. Durch den Deep-Flat Ansatz wird auch hier eine Klickbarkeit symbolisiert. 
+
+Vergangenen Events werden durch ausgebaute Typografie gekennzeichnet.
+
+### Detail Card
+![Tabs](_media/Detail_Card.png)
+Die Detailcards ermöglichen es dem User tiefer in ein Event oder in eine Gruppe einzutauchen. Die Detailcard wird von unten in den Viewport geschoben. Durch das gelernte Close/Card Icon am oberen Ende der Card wird dem User die Stippe-Down Gestik, um die Card zu schliessen, näher gebracht. Zusätzlich verstärkt die Slide-Up Animation der Card diese Gestik. 
+
+Innerhalb der Card kann der User gewohnt mittels Tabs navigieren. Der Hintergrund wird leicht Blurred dargestellt, damit die höhere Ebene der Card klar wird. Innerhalb der Card gibt es keine Navigation, da sie über den Content geschoben wird.
