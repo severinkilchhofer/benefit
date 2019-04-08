@@ -1,21 +1,23 @@
 ---
-navigation_title: "Wireframe"
+navigation_title: "User-Flow und Requirements"
 position: 1
 changed: "2019-03-16"
 ---
 
-# Wireframes
+# User-Flow und Requirements
 **Der erste Prototype stellt die Basis für unser finales Design dar. Gemeinsam erarbeiteten wir unseren Prototype mittels diversen Vorgehensweisen, welche nachfolgend genauer aufgezeigt werden.**
 
 [Wireframe Prototype](https://notch-interactive.invisionapp.com/share/GKR1N2D6CWU#/screens/352596569_benefit-Onboarding)
 
-## User-Flow und Requirements
+## User Flow
 
 ![User Flow](_media/userflow.jpg)
 
 Um einen Prototypen zu bauen, müssen zuerst mittels Recherche die Bedürfnisse der User abgeholt werden. Siehe dazu den Punkt „Recherche“ in unserer Dokumentation. Aufgrund dieser Basis haben wir einen User-Flow erstellt und dort festgelegt, was der User genau für Interaktionen ausführen kann. Dadurch konnten wir uns ein ungefähres Bild vom Umfang des Prototypen machen.
 
-![User Flow](_media/requirements.jpg)
+## Requirements
+
+![Requirements](_media/requirements.jpg)
 
 Nachdem wir den Groben Userflow bestummen hatten, konnten wir dem User verschiedene Aufgaben zuteilen und diese grob definieren. Dadurch merkten wir relativ schnell welche Epics in der App für uns zentral sein werden. Das Onboarding, die Events, Gruppen und das Profil. Unter jedem von diesen Punkten wurden verschiedenste Interaktionen eingegliedert, dadurch konnten wir den ungefähren Umfang unseres Prototypen abschätzen. 
 
