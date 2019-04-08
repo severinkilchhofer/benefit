@@ -7,7 +7,6 @@ changed: "2019-03-16"
 # User-Flow und Requirements
 **Der erste Prototype stellt die Basis für unser finales Design dar. Gemeinsam erarbeiteten wir unseren Prototype mittels diversen Vorgehensweisen, welche nachfolgend genauer aufgezeigt werden.**
 
-[Wireframe Prototype](https://notch-interactive.invisionapp.com/share/GKR1N2D6CWU#/screens/352596569_benefit-Onboarding)
 
 ## User Flow
 
