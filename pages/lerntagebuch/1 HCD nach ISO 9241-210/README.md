@@ -11,7 +11,11 @@ changed: "2019-02-22"
 ## Was haben wir gelernt?
 Wir haben den Unterschied zwischen Usability und UX diskutiert und uns einige Beispiele, sowie Usability-Fails angeschaut. Mit Usability ist die Benutzerführung gemeint – wie Benutzerfreundlich die Website oder das Produkt ist. Das UX ist die Benutzererfahrung – was der Benutzer erlebt wenn er auf einer Website ist oder z.B. ein Produkt bedient.
 
-## Usability + User Experience = «mach das mal schön» 
+
+```html
+Usability + User Experience = «mach das mal schön»
+```
+    
 Mittels der Bedürfnispyramide von Jesse James Garret können wir die einzelnen Stadien der Entwicklung einteilen. Wir haben besprochen welche Methoden wir anwenden können um möglichst viele hilfreichen Informationen zu sammeln. Es ist wichtig, das Szenario im IST-Zustand zu beurteilen und immer wieder (!) Feedback einzuholen. 
 
 ### Die Herangehensweise
@@ -34,6 +38,8 @@ Zu zweit haben uns Gedanken gemacht wie ein MP3 Player für Vorschulkinder ausse
 Für unsere Haupt-Gruppenarbeit, die Lern-App haben wir Ideen gesammelt, ein Mindmap erstellt, sowie alles niedergeschrieben was uns betreffend lernen eingefallen ist.
 
 ![Mindmap Tag 1](_media/mindmap_tag1.jpg)
+
+Die AEIOU-Methode bei welcher Aktivitäten (Activities), Umfeld (Environment), Interaktion (Interaction), Gegenstände (Objects) und Nutzer (User) definiert werden, haben wir nicht angewendet.
 
 
 ## Schwierigkeiten & Fragen
