@@ -4,9 +4,9 @@ position: 3
 changed: "2019-02-22"
 ---
 
-# VLösungsformen, Ideation & Praxisbeispiele
+# Lösungsformen, Ideation & Praxisbeispiele
 
-08.03.2019 – 
+01.03.2019 – Sei ein Visionär! Eine gute Vision überzeugt und lässt den Kunden kaufen/investieren. Kreatechniken bringen uns erneut auf Ideen welche unser Projekt optimiert. Das Storyboard wird gezeichnet und die User Story Map an die Wand gepostet.
 
 ## Was haben wir gelernt?
 Wir haben gelernt dass eine überzeugende, mitreissende Vision der Schlüssel ist um das Produkt zu vermarkten. Diese definieren wir anhand vom Golden Cyrcle.
