@@ -1,5 +1,5 @@
 ---
-navigation_title: "Wireframes"
+navigation_title: "LowFi"
 position: 2
 changed: "2019-03-16"
 ---
