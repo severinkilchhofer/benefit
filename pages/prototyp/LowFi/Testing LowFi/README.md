@@ -26,7 +26,7 @@ Was sind gute Fragen?
 
 Willkommen Herr/Frau Muster, ich heisse Severin Kilchhofer. Ich bin der Testleiter und begleite sie in den kommenden Viertelstunde. Danke,dass Sie sich Zeit nehmen für den Test. Wir schätzen das sehr. Die Testsitzung ist folgendermassen aufgebaut:
 
-### 1. Nach dem Briefing stelle ich Ihnen ein paar Fragen zur ihrer Erfahrung mit ähnlichen Produkten.
+1. Nach dem Briefing stelle ich Ihnen ein paar Fragen zur ihrer Erfahrung mit ähnlichen Produkten.
 
 2. Danach bitte ich Sie 1-2 Aufgaben durchzuführen.
 
@@ -41,43 +41,46 @@ Willkommen Herr/Frau Muster, ich heisse Severin Kilchhofer. Ich bin der Testleit
 
 ## Person 1 Testing
 
-1. Du bist Student und möchtest deinen Lernstoff mit einer Gruppe lernen. Du kommst auf unsere App. Du willst dich nun bei unserem Dienst per Email und Passwort registrieren.
+**1. Du bist Student und möchtest deinen Lernstoff mit einer Gruppe lernen. Du kommst auf unsere App. Du willst dich nun bei unserem Dienst per Email und Passwort registrieren.**
 
-*Klickt sign up. Intuitiv. Erwartet das richtige Resultat. Würde Mail öffnen und das Mail bestätigen. Verlässt hier das App.*
+Klickt sign up. Intuitiv. Erwartet das richtige Resultat. Würde Mail öffnen und das Mail bestätigen. Verlässt hier das App.
  
 
-### 2. Setze deine Präferenzen was du lernen möchtest.
+**2. Setze deine Präferenzen was du lernen möchtest.**
 
-*Sieht ein Interessen Screen. Will vorhandene Chips anklicken. Sieht das Eingabefeld nicht. Sieht aus wie Button.*
+Sieht ein Interessen Screen. Will vorhandene Chips anklicken. Sieht das Eingabefeld nicht. Sieht aus wie Button.
 
-### 3. Informiere dich über die Mitglieder und Events der Gruppe B.
+**3. Informiere dich über die Mitglieder und Events der Gruppe B.**
 
-*Im Footer auf Gruppen gewechselt. Sieht Gruppendetails mit Interessen. Findet einfach die Gruppen Events der Gruppe B.*
+Im Footer auf Gruppen gewechselt. Sieht Gruppendetails mit Interessen. Findet einfach die Gruppen Events der Gruppe B.
     
-### 4. Informiere dich über die Enventdetails.
+**4. Informiere dich über die Enventdetails.**
 
-*Sieht die Details und hat keine Mühe alle Infos einzusehen.*
+Sieht die Details und hat keine Mühe alle Infos einzusehen.
 
-### 5. Trete Gruppe B bei.
-*Kann ohne Probleme der Gruppe beitreten über den Button.*
+**5. Trete Gruppe B bei.**
+
+Kann ohne Probleme der Gruppe beitreten über den Button.
     
-### 6. Navigiere zurück zu Events
-*Klickt im Footer auf Events. Sieht dort die Events.*
+**6. Navigiere zurück zu Events**
+
+Klickt im Footer auf Events. Sieht dort die Events.
     
-### 6. Erstelle einen neuen Event.
+**6. Erstelle einen neuen Event.**
 
-*Button Event erstellen gefunden. Deine Events findet er dass er diese erstellt hat. Alle Events sind diese die von seinen Gruppen sind. Vergangene Events sind nicht besonders gut ersichtlich.*
+Button Event erstellen gefunden. Deine Events findet er dass er diese erstellt hat. Alle Events sind diese die von seinen Gruppen sind. Vergangene Events sind nicht besonders gut ersichtlich.
 
-### 7. Ändere deinen Avatar
- *Springt direkt zu Profil über den Footer. Ist nicht man auf das Profilbild klicken kann. Hätte lieber ein bearbeiten Button.*
+**7. Ändere deinen Avatar**
 
-### 8. Sucht Event in der Nähe.
+ Springt direkt zu Profil über den Footer. Ist nicht man auf das Profilbild klicken kann. Hätte lieber ein bearbeiten Button.
 
-*Sucht Event im Suchfeld. Findet den Filter über das Filtericon. Kann die Slider bedienen.*
+**8. Sucht Event in der Nähe.**
 
-### 9.  Melde dich nun ab.
+Sucht Event im Suchfeld. Findet den Filter über das Filtericon. Kann die Slider bedienen.
 
-*Will auf Einstellungen zugreifen. Geht auf Profilscreen und sieht Abmelden sofort.*
+**9.  Melde dich nun ab.**
+
+Will auf Einstellungen zugreifen. Geht auf Profilscreen und sieht Abmelden sofort.
 
 ## Post Session Interview & EMO Cards
 ### Personal
@@ -96,42 +99,47 @@ Punkte 33 x 2.5 = 82.5 = Accepted
 
 ## Person 2 Testing
 
-### 1. Du bist Student und möchtest deinen Lernstoff mit einer Gruppe lernen. Du kommst auf unsere App. Du willst dich nun bei unserem Dienst per Email und Passwort registrieren. 
+**1. Du bist Student und möchtest deinen Lernstoff mit einer Gruppe lernen. Du kommst auf unsere App. Du willst dich nun bei unserem Dienst per Email und Passwort registrieren.**
 
-*Startscreen: Hallo ist sehr dominant. Kann ich da chatten? Signup button eher klein.*
-*Füllt Felder aus, fragt sich was beim weiter-Button passiert? Ist ihm unklar. Buttons sind sehr tief.*
+Startscreen: Hallo ist sehr dominant. Kann ich da chatten? Signup button eher klein.
+Füllt Felder aus, fragt sich was beim weiter-Button passiert? Ist ihm unklar. Buttons sind sehr tief.
 
-### 2. Setze deine Präferenzen was du lernen möchtest.
+**2. Setze deine Präferenzen was du lernen möchtest.**
 
-*Ihm fehlen Dialoge, was er genau tun soll. Wo kann er seine eigenen Interessen eingeben? Die Interessensuche sieht aus wie ein Button. Es dürfen keine vordefinierten Tags gelistet sein. Ihm fehlt ein Titel über dem Interessen-Eingabe-Feld. Die Tags sind ihm zu ähnlich zu einem Stundenplan. Er hätte gerne ähnliche Interessen-Tags.*
+Ihm fehlen Dialoge, was er genau tun soll. Wo kann er seine eigenen Interessen eingeben? Die Interessensuche sieht aus wie ein Button. Es dürfen keine vordefinierten Tags gelistet sein. Ihm fehlt ein Titel über dem Interessen-Eingabe-Feld. Die Tags sind ihm zu ähnlich zu einem Stundenplan. Er hätte gerne ähnliche Interessen-Tags.
     
-### 3. Informiere dich über die Mitglieder und Events der Gruppe B.
+**3. Informiere dich über die Mitglieder und Events der Gruppe B.**
 
-*oops screen verwirrt ihn. Er glaubt etwas falsch gemacht zu haben. Findet Gruppe, Events und Mitglieder gut.*
+oops screen verwirrt ihn. Er glaubt etwas falsch gemacht zu haben. Findet Gruppe, Events und Mitglieder gut.
 
-### 4. Informiere dich über die Eventdetails.
+**4. Informiere dich über die Eventdetails.**
 
-*Findet die Eventdetails auf Anhieb. Overlay erscheint ihm komisch. Links-rechts Navigation wäre ihm lieber. Er vermisst ein Back-Button. Denkt er kann die Details nur über X verlassen. Würde versuchen die Karte nach oben wegzuwischen. Cards wegzuwischen ist ihm noch nicht so vertraut.*
+Findet die Eventdetails auf Anhieb. Overlay erscheint ihm komisch. Links-rechts Navigation wäre ihm lieber. Er vermisst ein Back-Button. Denkt er kann die Details nur über X verlassen. Würde versuchen die Karte nach oben wegzuwischen. Cards wegzuwischen ist ihm noch nicht so vertraut.
 
-### 5. Trete Gruppe B bei.
+**5. Trete Gruppe B bei.**
 
-*Kann Gruppe teilnehmen. Erwartet zweite Aufforderung – willst du wirklich teilnehmen?*
+Kann Gruppe teilnehmen. Erwartet zweite Aufforderung – willst du wirklich teilnehmen?
 
 
-### 6. Navigiere zurück zu Events
-*Findet events.*
+**6. Navigiere zurück zu Events**
 
-### 7. Erstelle einen neuen Event.
-*Findet den Event-Erstellen-Button sofort.*
+Findet events.
 
-### 8. Ändere deinen Avatar
-*Geht intuitiv auf Profil und ändert seinen Avatar.*
+**7. Erstelle einen neuen Event.**
 
-### 9. Melde dich nun ab.
-*Sucht Logout Button. Warum soll er sich abmelden? Würde über Einstellungen ein Logout suchen.*
+Findet den Event-Erstellen-Button sofort.
 
-### 10. Einstellungsbutton
-*Erwartet dort die wichtigsten Einstellungen, unter anderem auch Logout.*
+**8. Ändere deinen Avatar**
+
+Geht intuitiv auf Profil und ändert seinen Avatar.
+
+**9. Melde dich nun ab.**
+
+Sucht Logout Button. Warum soll er sich abmelden? Würde über Einstellungen ein Logout suchen.
+
+**10. Einstellungsbutton**
+
+Erwartet dort die wichtigsten Einstellungen, unter anderem auch Logout.
 
 ## Post Session Interview & EMO Cards
 ### Attracvive
