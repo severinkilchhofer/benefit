@@ -14,7 +14,7 @@ Wir lernen das Guerilla Testing kennen und schauen diesbezüglich ein paar reale
 Das Wichtigste ist wohl die Vorbereitung. Wir müssen gezielt unsere Fragen zum Prototypen stellen können um gezielt Feedback zu erhalten. Bevor wir starten erklären wir worum es genau geht und das wir nicht die Person an sich, sondern under Produkt testen wollen. Die Testperson kann also nichts falsch machen und auch keine blöden Fragen stellen. Stellt sie uns doch Fragen, stellen wir ihr eine Frage zurück. Was erwartet die Person was passiert?
 
 ```html
-«Paper Prototype oder Digital Prototype? – kommt ganz darauf an»
+«Paper Prototype oder Digital Prototype?»
 ```
 
 Je nachdem was wir testen wollen, eignet sich ein Prototyp aus Papier besser oder schlechter. Geht es um Abläufe, Funktionalität oder Terminologie kann gut damit getestet werden. Im Bereich vom Look & Feel, dynamischen Aspekten und Grössen von Elementen sollte man doch besser die digitale Variante vorlegen.
