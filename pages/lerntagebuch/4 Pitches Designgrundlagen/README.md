@@ -4,22 +4,11 @@ position: 4
 changed: "2019-02-22"
 ---
 
-# Pitches & Designgrundlagen 
+# Pitches & Designgrundlagen
 
-#### Titel
-UUID Lernplattform ‘Superlearner’ Lern-Facts
-#### Datum
-16.03.2019
-#### Gruppe
-Benefit
-#### Thema
-Pitches, Designgrundlagen
-#### Was haben wir gelernt?
-Wir habe drei Designgrundlagen angeschaut. 
-* Dialoggestaltung
-* Gestaltgesetze
-* Simplicity
-Es ist wichtig, sich an mindestens eines dieser Gesetze zu halten um für die Struktur und das Design argumentieren zu können.
+15.03.2019 – Der grosse Moment ist da, wir Pitchen unsere Lern App. Ein neuer Dozent welcher noch nichts von unserer App weiss will überzeugt werden in dieses Teil zu investieren. Es folgt ein Input über Designgrundlagen. Mit diesem Wissen beginnen wir mit dem ersten Wireframe, bzw. LoFi Prototype.
+
+## Was haben wir gelernt?
 
 #### Was war das Highlight?
 Die Vorträge der verschiedenen Gesetze waren amüsant.
