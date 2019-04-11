@@ -1,6 +1,6 @@
 ---
 navigation_title: "About"
-position: 6
+position: 7
 changed: "2019-04-11"
 ---
 
