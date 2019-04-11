@@ -6,7 +6,7 @@ changed: "2019-04-11"
 
 # Lösungsformen, Ideation & Praxisbeispiele
 
-01.03.2019 – Sei ein Visionär! Eine gute Vision überzeugt und lässt den Kunden kaufen/investieren. Kreatechniken bringen uns erneut auf Ideen welche unser Projekt optimiert. Das Storyboard wird gezeichnet und die User Story Map an die Wand gepostet.
+08.03.2019 – Sei ein Visionär! Eine gute Vision überzeugt und lässt den Kunden kaufen/investieren. Kreatechniken bringen uns erneut auf Ideen welche unser Projekt optimiert. Das Storyboard wird gezeichnet und die User Story Map an die Wand gepostet.
 
 ## Was haben wir gelernt?
 ### Vision & Kreatechniken

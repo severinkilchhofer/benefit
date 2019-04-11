@@ -5,10 +5,7 @@ changed: "2019-02-22"
 ---
 
 # HiFi Prototyping, Testing, Dialoggestaltung & Präsentation 
-#### Titel
-UUID Lernplattform ‘Superlearner’ Lern-Facts
-#### Datum
-22.03.2019
+29.03.2019
 #### Gruppe
 Benefit
 #### Thema
