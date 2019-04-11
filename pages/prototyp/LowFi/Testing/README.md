@@ -1,12 +1,11 @@
 ---
-navigation_title: "Testing"
+navigation_title: "Testing LowFi"
 position: 1
 changed: "2019-03-16"
 ---
 
-# Testing
-## Usability Walkthrough
-### Briefing
+# Testing LowFi
+** 
 
 Willkommen Herr/Frau Muster, ich heisse Severin Kilchhofer. Ich bin der Testleiter und begleite sie in den kommenden Viertelstunde. Danke, dass Sie sich Zeit nehmen für den Test. Wir schätzen das sehr. Die Testsitzung ist folgendermassen aufgebaut:
 1. Nach dem Briefing stelle ich Ihnen ein paar Fragen zur ihrer Erfahrung mit ähnlichen Produkten.
