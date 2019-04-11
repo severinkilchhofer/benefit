@@ -1,14 +1,13 @@
 ---
-navigation_title: "VPC's"
+navigation_title: "VPC's & Interviews"
 position: 1
 changed: "2018-06-15"
 ---
 
-# Value Proposition Canvas
+# Value Proposition Canvas & Interviews
+## VPC
 Für eine genauere Produktvorstellung haben wir als erstes unsere eigenen Pains, Gains und Jobs niedergeschrieben (VPC).
-Jeder hat so seine ersten Gedanken zur Idee selbständig überlegt.
-Nachdem haben wir unsere Erkenntnisse einander vorgestellt. Diese sind nachfolgende detailliert augelistet.
-
+Jeder hat so seine ersten Gedanken zur Idee selbständig überlegt. Nachdem haben wir unsere Erkenntnisse einander vorgestellt. Diese sind nachfolgende detailliert augelistet.
 Zu unseren Feststellungen haben wir zwei Interview mit unseren Mitschülern durchgeführt. 
 Wir haben Marc und Nicole aus einem anderen Projekt ausgewählt.
 
@@ -84,7 +83,7 @@ Wir haben Marc und Nicole aus einem anderen Projekt ausgewählt.
 *    aspirin
     
 
-#### Steffi:
+### Steffi:
 **Pains**
 *    alleine lernen
 *    fehlende Motivation

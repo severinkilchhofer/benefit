@@ -5,10 +5,9 @@ changed: "2019-02-22"
 ---
 
 # Interview mit Marc
-// TODO Sevi
-**Hier kommt das Intro für das Interview von Marc hin**
+Marc erklärt sich als erster bereit, uns ein Interview über sein Lernverhalten zu geben. Dank seiner Zustimmung können wir ihn filmen. Vorab haben wir unsere Rollen aufgeteilt, damit wir ihn optimal abholen und so möglichst viele Informationen sammeln können.
 
-
+## Die Fragen
 #### 1. Wie ist dein individuelles Lernverhalten? Lernst du lieber alleine oder lernst du mit anderen? – Bei der letzten Prüfung wie hast du es da gemacht?
 
 Marc lernt lieber alleine.
@@ -32,8 +31,7 @@ Kollegen von Kollegen. Durch das gamen hat er ebenfalls Online kennengelernt. No
 
 Er findet es unwahrscheinlich dass man Leute einfach über Facebook zum Beispiel kennenzulernen. Leute mit gleichen Interessen und wenn ein grosser Austausch stattfindet, möchte er sich nach einer Zeit gerne Treffen.
 
-
-#### Marc:
+## VPC Marc
 **Pains**
 *    Unklarheiten bleiben offen
 *    keine Hilfe

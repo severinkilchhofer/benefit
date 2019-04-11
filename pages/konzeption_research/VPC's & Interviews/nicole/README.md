@@ -5,10 +5,9 @@ changed: "2019-02-22"
 ---
 
 # Interview mit Nicole
-// TODO Sevi
-**Hier kommt das Intro für das Interview von Nicole hin**
+Nicole ist die Zweite, die sich zu einem Interview bereit erklärt. Ihr ist es lieber, wenn wir sie nicht filmen – was wir natürlich respektieren. Es ist wichtig, dass es der freiwilligen Person nicht unangenehm ist, da sich sonst die Aussagen verfälschen können. Im Vergleich zu den Fragen an Marc, könnten wir diese schon ein erstes Mal überarbeiten um so genauere Aussagen zu erhalten.
 
-
+## Die Fragen
 #### 1. Wie ist dein individuelles Lernverhalten? Lernst du lieber alleine oder lernst du mit anderen? – Bei der letzten Prüfung wie hast du es da gemacht?
 
 Sucht sich Unterlagen zusammen und gleicht alles mit den Lernzielen ab. Schreibt für sich Zusammenfassungen. 
@@ -33,13 +32,13 @@ Durch die Weiterbildug, Arbeit, im Ausgang. Nie über Social Media.
 
 Kann sich vorstellen Leute mit gleichen Interessen online kennenzulernen, hat sie sogar schon mal beim Reisen (Auto teilen).
 
-Kann sich vorstellen Lernpartner online zu treffen.
+Kann sich vorstellen Lernpartner online zu treffen.ﬁ
 
 Leute vom Fach sind schwieriger zu finden. Würden beim Lernen sicherlich helfen. Sieht schwierigkeiten mit falschen Absichten.
 
 In Gruppen besser angenehmer, meetup style. Alleine ist es zu intim. Jedoch kann mann in der Gruppe auch ein wenig untergehen. Zusätzlich kann man so auch eher hemmungen haben. Wenn es um Feedback geht ist eine einzelne Person dann doch besser.
 
-#### Nicole:
+##VPC Nicole
 **Pains**
 *    Gönnt sich keinen Ausgleich
 *    Zeitplan
