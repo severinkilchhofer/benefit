@@ -1,7 +1,7 @@
 ---
 navigation_title: "Lösungsformen, Ideation & Praxisbeispiele"
 position: 3
-changed: "2019-02-22"
+changed: "2019-04-11"
 ---
 
 # Lösungsformen, Ideation & Praxisbeispiele
@@ -20,7 +20,7 @@ Die Challange muss genau beschrieben um das Problem lösen zu können. Armin hat
 ###  Storyboard, Userflow & User Story Map
 Wir erstellen ein Storyboard und konnten daraus einen Userflow ableiten. Dank diesen Schritten konnten die User Story Map gemacht werden. Es ist wichtig, dass wir die Epics und Features aus Sicht des Users zu beschreiben. Man muss sich schon sehr früh Gedanken über alle nötigen/möglichen Funktionen machen.
 
-BILD Userflow
+![Userflow](./_media/Userflow.jpg)
 
 ## Highlight & Lowlight
 ### Das Highlight

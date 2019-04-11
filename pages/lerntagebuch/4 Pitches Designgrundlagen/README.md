@@ -6,16 +6,17 @@ changed: "2019-02-22"
 
 # Pitches & Designgrundlagen
 
-15.03.2019 – Der grosse Moment ist da, wir Pitchen unsere Lern App. Ein neuer Dozent welcher noch nichts von unserer App weiss will überzeugt werden in dieses Teil zu investieren. Es folgt ein Input über Designgrundlagen. Mit diesem Wissen beginnen wir mit dem ersten Wireframe, bzw. LoFi Prototype.
+15.03.2019 – Der erste grosse Moment ist da, wir Pitchen unsere Lern App. Ein neuer Dozent welcher noch nichts von unserer App weiss will überzeugt werden in dieses Teil zu investieren. Es folgt ein Input über Designgrundlagen. Mit diesem Wissen beginnen wir mit dem ersten Wireframe, bzw. LoFi Prototype.
 
 ## Was haben wir gelernt?
 Wir sehen uns drei Designgrundlagen genauer an. In Gruppen haben wir uns in die Dialoggestaltung, die Gestaltungsgesetze und Simplicity vertieft. Anschliessend präsentierten wir diese in einer Kurzform. Es ist wichtig, sich an mindestens eines dieser Gesetze zu halten um für die Struktur und das Design argumentieren zu können. 
 
 ### Die Dialoggestaltung 
-Durch die international bekannte (:)) FISALES Eselbrücke können wir und die sieben Designgrundlagen merken.
+Durch die international bekannte :) FISALES Eselbrücke können wir und die sieben Designgrundlagen merken.
 
 ```html
-«Fritz Isst Seine Aprikosen Lieber Essig Sauer» Autor unbekannt
+«Fritz Isst Seine Aprikosen Lieber Essig Sauer» 
+Anonymous
 ```
 
 F I S A L E S
@@ -43,7 +44,7 @@ BILD Gestaltungsgesetze
 ### Simplicity
 Die Simplicity Gestaltungsgesetze wurden von John Maeda ins Leben gerufen. Dabei geht es um die maximal nötige Reduzierung von Elementen. Das Endprodukt soll einfach zu verstehen und zu bedienen sein.
 
-BILD Simplicity
+![Simplicity](./_media/Simplicity.png)
 
 ## Highlight & Lowlight
 ### Das Highlight
