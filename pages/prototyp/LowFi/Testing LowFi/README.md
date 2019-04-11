@@ -155,3 +155,5 @@ Erwartet dort die wichtigsten Einstellungen, unter anderem auch Logout.
 
 ## SUS Fragebogen 
 Punkte 33 x 2.5 = 82.5 = Accepted
+
+![SUS](_media/SUS.png)
