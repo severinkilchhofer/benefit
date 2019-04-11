@@ -6,7 +6,7 @@ changed: "2019-04-11"
 
 # Semesteraufgabe Lernplattform
 
-Im Modul «Usability und Interface Design» erarbeiten wir die Grundlagen für die
+Im Modul «Usability und Interface Design» bei Armin Egli und Fabian Scheiwiler erarbeiten wir die Grundlagen für die
 Gestaltung einer neuen Lernplattform für Studierende.
 
 ## Lernplattform für Studierende
