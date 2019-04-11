@@ -1,37 +1,61 @@
 ---
-navigation_title: "Erkenntnisse Testing"
+navigation_title: "Erkenntnisse Testing HiFi"
 position: 2
 changed: "2019-03-16"
 ---
 
-# Erkenntnisse Testing
+# Erkenntnisse Testing HiFi
 
-**Folgende Fehler sind während dem LowFi-Testing ausfindig gemacht worden.**
+**Folgende Fehler sind während dem HiFi-Testing ausfindig gemacht worden.**
 
-## Einstellungen
+## Login Step 1
 
-![Einstellungen](_media/Einstellungen_Fail.png)
+![Login](_media/01_Login_Step_1.png)
 
-Die Eisntellungen werden als unnötig emfpunden. Es ist nicht klar wofür diese zuständig sind, da unten das Profil immer erreichbar ist.
 
-## Profilbild
+## Login Step 2
 
-![Profilbild](_media/editing.png)
+![Login2](_media/02_Login_Step_2.png)
 
-Dem User war nicht klar ob er das Profilbild bearbeiten kann oder nicht. Eine Lösung könnte ein Bearbeiten-Icon sein.
+## Login Step 2
 
-## Gleiche Bedeutung
+![Login2](_media/02_Login_Step_2.png)
 
-![Gleiche Bedeutung](_media/same_meaning.png)
+## Events Landing
 
-Dem User war der Unterschied zwischen Suche und Secondary-Button nicht klar. Die Lösung für dieses Problem kann im Design erarbeitet werden.
+![Events_Landing](_media/03_Events_Landing.png)
 
-## Wording
+## Events Teilnahme
 
-![Wording](_media/wording.png)
+![Events_Teilnahme](_media/04_Events_Landing_Teilnahmen.png)
 
-Das eher strenge Wording auf dieser Seite verunsicherte den User. Dem User war nicht klar ob er hier einen Fehler gemacht hat.
+## Deine Gruppen
 
+![Gruppen](_media/05_Deine_Gruppen.png)
+
+## Deine Gruppen Übersicht
+
+![Gruppen_uebersicht](_media/051_Deine_Gruppen.png)
+
+## Alle Events
+
+![Alle_Events](_media/06_Event_Alle_Events.png)
+
+## Event Card
+
+![card](_media/07_Event_Card_1.png)
+
+## Event Card 2
+
+![card2](_media/08_Event_Card_2.png)
+
+## Event Card 3
+
+![card3](_media/09_Event_Card_3.png)
+
+## Profil
+
+![Profil](_media/10_Profil.png)
 
 
 
