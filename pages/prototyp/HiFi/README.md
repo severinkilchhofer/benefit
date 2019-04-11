@@ -4,49 +4,37 @@ position: 3
 changed: "2019-03-16"
 ---
 
-# Wireframes
-**Mitt den Wireframes oder dem LowFi-Protoype können schon erste User-Testing durchgeführt werden. Somit können in einem frühen Stadium bereits strukturelle Fehlüberlegungen festgestellt werden.**
+# HiFi – Prototype
+**Das Design steht im HiFi Prototype grundsätzlich. Die Applikation hat eine klare Sprache und es geht jetzt darum Fehler im UI aufzudecken.**
 
-## Struktur unf Aufbau – Flow Chart
+## Ziele & Eigenschaften eines HiFi-Prototypen
+Sie zeigen das Verhalten des echten System in interaktiver Form,  statt nur mit statischen Screens. Dadurch kann dem User schon in einem frühen Stadium das Verhalten eines Systems nähergebracht werden.
+
+ HiFi Prototypen können mit den richtigen Tools sehr schnell gebaut werden. Dadurch kan schon in einem frühen Stadium des Designs ein User-Feedback eingeholt werden.
+ 
+Prototypen können auch aus HTML/CSS und JavaScript erstellt werden. Dies hat den Vorteil das gewisse Transisitons die für das UX eines Systems wichtig sind, getestet werden können.
+
+
+
+## Struktur
+
 ![User Flow](_media/Flow_Chart.png)
-Unser Prototype hat insgesamt 3 Ebenen. Der User kann auf der Hauptstufe zwischen den 3 Hauptpunkten navigieren. Unter jedem Punkt kann der User 1 Stufe tiefer gehen und dort innerhalb einer Card den Content wechseln.
+
+Die Struktur unterscheidet sich nicht vom LowFi-Prototypen. Es wurden in einem ersten Testin keine grundlegenden Fehler aufgedeckt. Daher war es auch nicht notwendig daran etwas zu ändern.
+
+## Der Prototype
+
+![Figma](_media/figma.png)
+![HiFi](_media/proto.png)
+
+Das von uns erarbeitet Design wurde Konsequent in unseren Prototypen eingebaut. Dadurch konnten wir eine stets konsequente Sprache in unsere Applikation gewährleisten.
+
+Auf Basis des LowFi-Prototypen konnten wir so die einzelnen Screens gemeinsam ausarbeiten.
 
 
+[Zum HiFi-Prototype](https://www.figma.com/proto/RECJuTUBg0xR3bLLu1yByFAr/Benefit?node-id=92%3A649&scaling=scale-down)
 
-## LowFi Prototype
 
-![Wireframes](_media/Wireframes.png)
-
-Folgend ist unser LowFi-Prototype verlinkt. Mittels diesem Wireframe haben wir ein erstes User-Testing durchgeführt und konnten schon erste gravierende Fehler feststellen. 
-
-[Wireframe Prototype](https://notch-interactive.invisionapp.com/share/GKR1N2D6CWU#/screens/352596569_benefit-Onboarding)
-
-### Erkentnisse aus dem LowFi-Testing
-Folgende Fehler sind während dem LowFi-Testing ausfindig gemacht worden.
-
-#### Einstellungen
-
-![Einstellungen](_media/Einstellungen_Fail.png)
-
-Die Eisntellungen werden als unnötig emfpunden. Es ist nicht klar wofür diese zuständig sind, da unten das Profil immer erreichbar ist.
-
-#### Profilbild
-
-![Profilbild](_media/editing.png)
-
-Dem User war nicht klar ob er das Profilbild bearbeiten kann oder nicht. Eine Lösung könnte ein Bearbeiten-Icon sein.
-
-#### Gleiche Bedeutung
-
-![Gleiche Bedeutung](_media/same_meaning.png)
-
-Dem User war der Unterschied zwischen Suche und Secondary-Button nicht klar. Die Lösung für dieses Problem kann im Design erarbeitet werden.
-
-#### Wording
-
-![Wording](_media/wording.png)
-
-Das eher strenge Wording auf dieser Seite verunsicherte den User. Dem User war nicht klar ob er hier einen Fehler gemacht hat.
 
 
 
