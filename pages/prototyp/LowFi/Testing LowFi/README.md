@@ -4,10 +4,12 @@ position: 1
 changed: "2019-03-16"
 ---
 
-# Testing Grundsätze
+# Testing LowFi
 **Im ersten Testing unseres LowFis Prototypen ging es darum herauszufinden ob in unserem Wireframe grobe Fehler im Aufbau und im Userflow ersichtlich sin.**
 
-## Wie wird ein Testing erfolgreich durchgeführt?
+## Testing Grundsätze
+
+### Wie wird ein Testing erfolgreich durchgeführt?
 Grundsätzlich lässt sich ein Testing in 3 Phasen unterteilen. Das Briefing, die Durchführung und das Post-Session Interview. Wichtig ist es die richtigen Fragen zu stellen und der Testperson immer das Gefühl zu geben, dass nicht sie sondern das Produkt getestet wird.
 
 ### Wie stelle ich die richtigen Fragen?
