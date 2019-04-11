@@ -12,7 +12,7 @@ changed: "2019-02-22"
 Wir sehen uns drei Designgrundlagen genauer an. In Gruppen haben wir uns in die Dialoggestaltung, die Gestaltungsgesetze und Simplicity vertieft. Anschliessend präsentierten wir diese in einer Kurzform. Es ist wichtig, sich an mindestens eines dieser Gesetze zu halten um für die Struktur und das Design argumentieren zu können. 
 
 ### Die Dialoggestaltung 
-Durch die international bekannte :) FISALES Eselbrücke können wir und die sieben Designgrundlagen merken.
+Durch die international bekannte FISALES Eselsbrücke können wir und die sieben Designgrundlagen merken.
 
 F-I-S-A-L-E-S
 1. Fehlertoleranz
