@@ -33,7 +33,7 @@ Einige Krea-Formen eignen sich nicht für alle Teams.
 Wir haben unsere Vision in einen Tweet gepackt und kurz präsentiert. Anhand der ausgewählten Kreatechniken konnten wir unsere Challenge präziser definieren und ein Storyboard erstellen. Wir skizzierten einen möglichen Userflow und posteten davon abgeleitet die User Story Map an die Wand. Die einzelnen Tasks wurden in Epics und Features aufgeteilt.
 ## Schwierigkeiten & Fragen
 ### Schwierigkeiten
-Wir hatten mühe die Epics und Features aus Sicht des Users zu definieren da wir immer wieder in die Entwicklersicht abrutschten und der Zeitplan sehr sportlich war.
+Wir hatten Mühe die Epics und Features aus Sicht des Users zu definieren da wir immer wieder in die Entwicklersicht abrutschten und der Zeitplan sehr sportlich war.
 
 ### Fragen
 Keine

@@ -1,10 +1,10 @@
 ---
-navigation_title: "Persona, IST- & SOLL-Zustand"
+navigation_title: "Persona & User Journey Map"
 position: 3
 changed: "2019-04-11"
 ---
 
-# Persona, IST- & SOLL-Zustand
+# Persona & User Journey Map
 Um herauszufinden welche Personen unsere Applikation benutzen würden, erstellen wir fiktive Persona. Diese entstehen aus den vorab definierten Benutzergruppen. Wir erschaffen diese fiktive Person aus unseren Köpfen und teilen ihr Charaktere, Ziele und Überzeugungen zu.
 
 ## Philippe
@@ -22,7 +22,8 @@ Phillippe befindet sich mitten Prüfungsstress. In 2 Monaten stehen die Semester
 4. Unterlagen sichten
 5. Lernpartner suchen
 
-## IST-Zustand
+## User Journey Map
+### IST-Zustand
 ![IST_Zustand](./_media/PhilippeIST.jpg)
-## SOLL-Zustand
+### SOLL-Zustand
 ![IST_Zustand](./_media/PhilippeIST.jpg)

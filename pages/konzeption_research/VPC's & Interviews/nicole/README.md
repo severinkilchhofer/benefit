@@ -5,7 +5,7 @@ changed: "2019-02-22"
 ---
 
 # Interview mit Nicole
-Nicole ist die Zweite, die sich zu einem Interview bereit erklärt. Ihr ist es lieber, wenn wir sie nicht filmen – was wir natürlich respektieren. Es ist wichtig, dass es der freiwilligen Person nicht unangenehm ist, da sich sonst die Aussagen verfälschen können. Im Vergleich zu den Fragen an Marc, könnten wir diese schon ein erstes Mal überarbeiten um so genauere Aussagen zu erhalten.
+Nicole interviewen wir als Zweite. Ihr ist es lieber, wenn wir sie nicht filmen – was wir natürlich respektieren. Es ist wichtig, dass es der freiwilligen Person nicht unangenehm ist, da sich sonst die Aussagen verfälschen können. Im Vergleich zu den Fragen an Marc, könnten wir diese schon ein erstes Mal überarbeiten um so genauere Aussagen zu erhalten.
 
 ## Die Fragen
 #### 1. Wie ist dein individuelles Lernverhalten? Lernst du lieber alleine oder lernst du mit anderen? – Bei der letzten Prüfung wie hast du es da gemacht?
