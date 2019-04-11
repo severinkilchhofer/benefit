@@ -6,6 +6,11 @@ changed: "2018-06-15"
 
 # SUS (System Usability Scale)-Fragebogen
 
-**Das Testing stellt einen zentralen Punkt im Human Centered Design dar. Durch das Testen des Produkt in frühen Phasen der Entwicklung können wichtige Inputs schon früh ausgewertet und in die Erarbeitung eines Produktes miteinbezogen werden**
+**SUS (System Usability Scale)-Fragebogen dienen dazu ein Testing auszuerten. Dabei werden bei vorgegebenen zehn Fragen Punkte zwischen 1 bis 5 vergegeben, damit am Ende ein SUS-Score zwischen 0 bis 100 entsteht.**
 
-Auf folgende Testing-Methoden werden wir in diesem Kapitel genauer eingehen:
+## Vorteile
+Ein grosser Vorteil von diesem Fragebogen ist, dass er das Testing in einen greifbaren und messbaren Wert umwandelt. Darucch werden die abstrakten Ergebnisse eines solchen Testings greifbar. 
+
+Wird dieser Test in verschiedenen Phasen der Produkteentwicklung wiederholt, kann er auch als Orientierung dienen. Zum Beispiel ist am Resultat ablesbar ob sich das Produkt verbessert hat oder nicht.
+
+![SUS](_media/SUS.png)

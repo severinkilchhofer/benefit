@@ -6,6 +6,8 @@ changed: "2018-06-15"
 
 # Emotional Response Cards
 
-**Das Testing stellt einen zentralen Punkt im Human Centered Design dar. Durch das Testen des Produkt in frühen Phasen der Entwicklung können wichtige Inputs schon früh ausgewertet und in die Erarbeitung eines Produktes miteinbezogen werden**
+**Am Ende des Testes muss die Testperson drei Emo-Cards (Emotional Response Cards) wählen. Diese bilden jeweils ein Adjektiv ab und sollen das Produkt oder das Erlebniss mit dem Produkt genauer beschreiben. **
 
-Auf folgende Testing-Methoden werden wir in diesem Kapitel genauer eingehen:
+## Auswertung der gewählten Karten
+
+Nach der Auswahl wird die Testperson gefragt warum sie genau diese Adjektive ausgewählt hat. Dadurch können zusätzlich wichtige Informationen zum Produkt gewonnen werden.

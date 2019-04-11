@@ -6,6 +6,7 @@ changed: "2018-06-15"
 
 # Pre Fragen
 
-**Das Testing stellt einen zentralen Punkt im Human Centered Design dar. Durch das Testen des Produkt in frühen Phasen der Entwicklung können wichtige Inputs schon früh ausgewertet und in die Erarbeitung eines Produktes miteinbezogen werden**
+**Durch kurze Pre Fragen kann der Hintergrund der Testperson ermittelt werden. Je nach Hintergrund und Fähigkeiten kann dies Einfluss auf das Resultat des Testings haben, zum Beispiel ob die Tesperson dem Zielpublikum entspricht.**
 
-Auf folgende Testing-Methoden werden wir in diesem Kapitel genauer eingehen:
+## Sinn und Zweck
+Hat eine Tesperson viel Erfahrung mit ähnlichen Systemen, kann dies zu einem anderen Userverhalten fürhen wie bei einer Person die noch nie ein solches System bedient hat. Ist dies gewollt, können für die jeweiligen Testpersonen und Zielgruppen unterschiedliche Tests zum Zug kommen.

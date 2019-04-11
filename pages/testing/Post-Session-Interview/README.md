@@ -4,8 +4,14 @@ position: 3
 changed: "2018-06-15"
 ---
 
-# Pre Fragen
+# Post Session Interview
 
-**Das Testing stellt einen zentralen Punkt im Human Centered Design dar. Durch das Testen des Produkt in frühen Phasen der Entwicklung können wichtige Inputs schon früh ausgewertet und in die Erarbeitung eines Produktes miteinbezogen werden**
+**Mit einem kurzen Post Session Interview sollen die User ihre Eindrücke zur Usability in eigennen Worten ausdrücken**
 
-Auf folgende Testing-Methoden werden wir in diesem Kapitel genauer eingehen:
+## Sinn und Zweck
+Durch das Post Session Interview kann die Tespterson nochmals frei erzählen wie sie das Produkt Empfunden hat. Diese Informationen ausserhalb des Testing-Flows können nochmals interesannte Erkenntnisse ans Licht bringen.
+
+Folgende Fragen können der Tesperson dabei als unterstüzung dienen:
+* Was hat Ihnen besonders gefallen?
+* Was hat ihnen gefehlt?
+* Wo hatten sie Probleme?
