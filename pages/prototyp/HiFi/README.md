@@ -1,6 +1,6 @@
 ---
 navigation_title: "HiFi"
-position: 2
+position: 3
 changed: "2019-03-16"
 ---
 
