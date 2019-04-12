@@ -5,15 +5,15 @@ changed: "2018-06-15"
 ---
 
 # Interview Testing
-**Das Interview als Begleitung oder Guide bei einem Prototype Tesing ist eine bewährte Methode Feedback von Testpersonen zu erhalten**
+**Das Interview als Begleitung oder Guide bei einem Prototype Tesing ist eine bewährte Methode, Feedback von Testpersonen zu erhalten**
 
 ## Testing Grundsätze
 
 ### Wie wird ein Testing erfolgreich durchgeführt?
-Grundsätzlich lässt sich ein Testing in 3 Phasen unterteilen. Das Briefing, die Durchführung und das Post-Session Interview inkl. auswertung. Wichtig ist es die richtigen Fragen zu stellen und der Testperson immer das Gefühl zu geben, dass nicht sie sondern das Produkt getestet wird.
+Grundsätzlich lässt sich ein Testing in 3 Phasen unterteilen. Das Briefing, die Durchführung und das Post-Session Interview inkl. auswertung. Wichtig ist es, die richtigen Fragen zu stellen und der Testperson immer das Gefühl zu geben, dass nicht sie sondern das Produkt getestet wird.
 
 ### Wie stelle ich die richtigen Fragen?
-Wichtig ist es realistische Situation zu skizzieren und reale Aufgaben stellen. Als Testperson sollte man keine Fragen beantworten sondern diese immer zurückgeben. Zusätzlich darf in eine Frage niemals eine persönliche Meinung hineinfliessen oder ein Hinweis gegeben werden was dort genau passiert.
+Wichtig ist es realistische Situation zu skizzieren und reale Aufgaben stellen. Als testende Person sollte man keine Fragen beantworten sondern diese immer zurückgeben. Zusätzlich darf in eine Frage niemals eine persönliche Meinung hineinfliessen oder ein Hinweis gegeben werden was dort genau passiert.
 
 ```html
 Was sind gute Fragen?
@@ -25,9 +25,9 @@ Was sind gute Fragen?
 ```
 
 ## Briefing und Einleitung
-Beim Briefing wird das Szenario kurzz erläutert. Der Testperson wird nochmals das Gefühl von Sicherheit vermittelt und ihr wird klar mitgeteilt dass sie nicht getestet wird. 
+Beim Briefing wird das Szenario kurz erläutert. Der Testperson wird nochmals das Gefühl von Sicherheit vermittelt und ihr wird klar mitgeteilt, dass sie nicht getestet wird. 
 
-Der Testleiter oder die Testleitering stellen sich kurz vor, anbei ein Beispiel einer Einleitung:
+Der Testleiter oder die Testleiterin stellt sich kurz vor, anbei ein Beispiel einer Einleitung:
 
 
 #### Beispiel Einleitung
