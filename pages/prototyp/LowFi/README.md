@@ -5,9 +5,9 @@ changed: "2019-03-16"
 ---
 
 # LowFi
-**Mitt den Wireframes oder dem LowFi-Protoype können schon erste User-Testing durchgeführt werden. Somit können in einem frühen Stadium bereits strukturelle Fehlüberlegungen festgestellt werden.**
+**Mit den Wireframes oder dem LowFi-Protoype können schon erste User-Testing durchgeführt werden. Somit können in einem frühen Stadium bereits strukturelle Fehlüberlegungen festgestellt werden.**
 
-## Struktur unf Aufbau – Flow Chart
+## Struktur und Aufbau – Flow Chart
 ![User Flow](_media/Flow_Chart.png)
 Unser Prototype hat insgesamt 3 Ebenen. Der User kann auf der Hauptstufe zwischen den 3 Hauptpunkten navigieren. Unter jedem Punkt kann der User 1 Stufe tiefer gehen und dort innerhalb einer Card den Content wechseln.
 
