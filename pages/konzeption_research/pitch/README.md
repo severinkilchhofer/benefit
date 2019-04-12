@@ -13,7 +13,7 @@ Im Zentrum unserer Ausgangslage steht unser Leitsatz: **«Wie können wir den St
 In diesem Teil wurden auch die VPC's vorgestellt, und zwar unsere eigenen und die der befragten Personen.
 
 ## Research
-Im Abschnitt Research unsere Präsentation haben wir die diversen Methoden vorgestellt die uns geholfen haben ein Bild der IST- und SOLL-Situation zu machen.
+Im Abschnitt "Research" unser Präsentation haben wir die diversen Methoden vorgestellt die uns geholfen haben ein Bild der IST- und SOLL-Situation zu machen.
 
 ### Folgende Methoden wurden vorgestellt:
 * Interviews
@@ -23,7 +23,7 @@ Im Abschnitt Research unsere Präsentation haben wir die diversen Methoden vorge
 
 ## Idee
 ![Idee](_media/IDEe.png) 
-In diesem Abschnitt ging es darum unsere Idee möglichst einfach verpackt dem Publikum näher zu bringen. Bei einem Pitch ist es wichtig nur das nötigste, dafür aber das richtige zu zeigen. Wir beschränkten uns auf einfache Grafiken die von uns mündlich ergänzt oder erklärt wurden.
+In diesem Abschnitt ging es darum unsere Idee möglichst einfach verpackt dem Publikum näher zu bringen. Bei einem Pitch ist es wichtig nur das Nötigste, dafür aber das Richtige zu zeigen. Wir beschränkten uns auf einfache Grafiken die von uns mündlich ergänzt oder erklärt wurden.
 
 ## Story der Lösung
 Hierbei wurde der IST- und SOLL-Zustand genauer aufgezeigt. Dabei wird ein typischer User-Flow mit den aktuellen Problemen aufgezeigt und dieser mit dem optimalen User-Flow verglichen der nur in Kombination mit unserem Produkt entstehen kann.
