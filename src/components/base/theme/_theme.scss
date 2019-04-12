@@ -36,6 +36,16 @@
   --theme-color-light: $theme-4-light;
 }
 
+.theme-design {
+  --theme-color-dark: $theme-5-dark;
+  --theme-color-light: $theme-5-light;
+}
+
+.theme-testing {
+  --theme-color-dark: $theme-6-dark;
+  --theme-color-light: $theme-6-light;
+}
+
 .theme-welcome,
 .theme-lerntagebuch {
   --theme-color-dark: $theme-1-dark;

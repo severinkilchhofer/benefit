@@ -13,8 +13,11 @@ $theme-3-light: $c-blue-light;
 $theme-4-dark: $c-purple;
 $theme-4-light: $c-purple-light;
 
-$theme-5-dark: $c-xx;
-$theme-5-light: $c-xx-light;
+$theme-5-dark: $c-orange;
+$theme-5-light: $c-orange-light;
+
+$theme-6-dark: $c-whiteblue;
+$theme-6-light: $c-whiteblue-light;
 
 @mixin theme($property, $color: main) {
   @if ($color == main) {
@@ -39,7 +42,10 @@ $theme-5-light: $c-xx-light;
     $color: $theme-3-dark
   }
   @if ($color == 5) {
-    $color: $theme-3-dark
+    $color: $theme-5-dark
+  }
+  @if ($color == 6) {
+    $color: $theme-6-dark
   }
   @if ($color == 0_light) {
     $color: $theme-0-light
@@ -58,6 +64,9 @@ $theme-5-light: $c-xx-light;
   }
   @if ($color == 5_light) {
     $color: $theme-5-light
+  }
+  @if ($color == 6_light) {
+    $color: $theme-6-light
   }
   transition: #{$property} .6s ease;
   #{$property}: $color;
