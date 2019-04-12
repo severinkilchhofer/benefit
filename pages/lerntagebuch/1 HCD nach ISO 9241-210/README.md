@@ -16,7 +16,7 @@ Wir haben den Unterschied zwischen Usability und UX diskutiert und uns einige Be
 Usability + User Experience = «mach das mal schön»
 ```
     
-Mittels der Bedürfnispyramide von Jesse James Garret können wir die einzelnen Stadien der Entwicklung einteilen. Wir haben besprochen welche Methoden wir anwenden können um möglichst viele hilfreichen Informationen zu sammeln. Es ist wichtig, das Szenario im IST-Zustand zu beurteilen und immer wieder (!) Feedback einzuholen. 
+Mittels der Bedürfnispyramide von Jesse James Garret können wir die einzelnen Stadien der Entwicklung einteilen. Wir haben besprochen welche Methoden wir anwenden können um möglichst viele hilfreiche Informationen zu sammeln. Es ist wichtig, das Szenario im IST-Zustand zu beurteilen und immer wieder (!) Feedback einzuholen. 
 
 ### Die Herangehensweise
 1. Problem identifizieren
@@ -33,9 +33,9 @@ UX ist nicht nur die Nutzung auf dem UI. Das Produkt muss immer als Ganzes geseh
 Welches Lowlight? :)
 
 ## Artefakte, die wir erstellt & abgegeben haben
-Zu zweit haben uns Gedanken gemacht wie ein MP3 Player für Vorschulkinder aussehen könnte und welche Features er haben muss. Dafür haben wir uns Bilder der IST-Situation vom Umfeld angeschaut. Sich vor Ort zu begeben und mit Betroffenen zu sprechen wäre ideal. So können wir durch die Needs der Benutzer eruieren indem wir mit diesen sprechen und aktiv beobachten.
+Zu zweit haben wir uns Gedanken gemacht wie ein MP3 Player für Vorschulkinder aussehen könnte und welche Features er haben muss. Dafür haben wir uns Bilder der IST-Situation vom Umfeld angeschaut. Sich vor Ort zu begeben und mit Betroffenen zu sprechen wäre ideal. So können wir die Needs der Benutzer eruieren indem wir mit diesen sprechen und aktiv beobachten.
 
-Für unsere Haupt-Gruppenarbeit, die Lern-App haben wir Ideen gesammelt, ein Mindmap erstellt, sowie alles niedergeschrieben was uns betreffend lernen eingefallen ist.
+Für unsere Haupt-Gruppenarbeit, die Lern-App, haben wir Ideen gesammelt, ein Mindmap erstellt sowie alles niedergeschrieben was uns betreffend Lernen eingefallen ist.
 
 ![Mindmap Tag 1](_media/mindmap_tag1.jpg)
 
