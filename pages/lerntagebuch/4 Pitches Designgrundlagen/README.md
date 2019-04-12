@@ -6,7 +6,7 @@ changed: "2019-02-22"
 
 # Pitches & Designgrundlagen
 
-16.03.2019 – Der erste grosse Moment ist da, wir Pitchen unsere Lern App. Ein neuer Dozent welcher noch nichts von unserer App weiss will überzeugt werden in dieses Teil zu investieren. Es folgt ein Input über Designgrundlagen. Mit diesem Wissen beginnen wir mit dem ersten Wireframe, bzw. LoFi Prototype.
+16.03.2019 – Der erste grosse Moment ist da, wir Pitchen unsere Lern-App. Ein neuer Dozent welcher noch nichts von unserer App weiss will überzeugt werden in dieses Teil zu investieren. Es folgt ein Input über Designgrundlagen. Mit diesem Wissen beginnen wir mit dem ersten Wireframe, bzw. dem LoFi Prototype.
 
 ## Was haben wir gelernt?
 Wir sehen uns drei Designgrundlagen genauer an. In Gruppen haben wir uns in die Dialoggestaltung, die Gestaltungsgesetze und Simplicity vertieft. Anschliessend präsentierten wir diese in einer Kurzform. Es ist wichtig, sich an mindestens eines dieser Gesetze zu halten um für die Struktur und das Design argumentieren zu können. 
@@ -58,7 +58,7 @@ Neben der Präsentation die wir für den Pitch auf diesen Tag vorbereitet hatten
 
 ## Schwierigkeiten & Fragen
 ### Schwierigkeiten
-Als wir mit dem Wireframe begonnen haben, kamen mehrere Fragen betreffend Hierarchie auf. Es war etwas knifflig da alles zu bedenken und asap eine geordnete Struktur zu erstellen.
+Als wir mit dem Wireframe begonnen haben, kamen mehrere Fragen betreffend Hierarchie auf. Es war etwas knifflig da alles zu bedenken und asap eine geordnete Struktur zu erstellen war.
 
 ### Fragen
 Keine
