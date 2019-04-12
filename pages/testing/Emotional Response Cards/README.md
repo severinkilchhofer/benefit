@@ -6,7 +6,7 @@ changed: "2018-06-15"
 
 # Emotional Response Cards
 
-**Am Ende des Testes muss die Testperson drei Emo-Cards (Emotional Response Cards) wählen. Diese bilden jeweils ein Adjektiv ab und sollen das Produkt oder das Erlebniss mit dem Produkt genauer beschreiben. **
+**Am Ende des Testes muss die Testperson drei Emo-Cards (Emotional Response Cards) wählen. Diese bilden jeweils ein Adjektiv ab und sollen das Produkt oder das Erlebniss mit dem Produkt genauer beschreiben.**
 
 ## Auswertung der gewählten Karten
 
