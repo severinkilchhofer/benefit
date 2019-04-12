@@ -6,14 +6,14 @@ changed: "2018-06-15"
 
 # Value Proposition Canvas & Interviews
 ## VPC
-Für eine genauere Produktvorstellung haben wir als erstes unsere eigenen Pains, Gains und Jobs niedergeschrieben (VPC). Jeder hat so seine ersten Gedanken zur Idee selbständig überlegt. Danach haben wir unsere Erkenntnisse einander vorgestellt und verglichen. Zusätzlich zu unseren Feststellungen haben wir zwei Interviews mit unseren Mitschülern durchgeführt.
+Für eine genauere Produktvorstellung haben wir als Erstes unsere eigenen Pains, Gains und Jobs niedergeschrieben (VPC). Jeder hat sich so selbständig seine ersten Gedanken zur Idee gemacht. Danach haben wir unsere Erkenntnisse einander vorgestellt und verglichen. Zusätzlich zu unseren Feststellungen haben wir zwei Interviews mit Mitschülern durchgeführt.
 
 
 ### Nils:
 **Pains**
 *    Wissensaustausch mit Gleichgesinnten
 *    Motivation mit jemandem zu lernen
-*    Wer macht schon zum "lernen" ab?
+*    Wer macht schon zum "Lernen" ab?
 *    Orte bestimmen die sich zum lernen eignen
 *    Jemanden finden, der schon weiter ist und einem helfen kann.
 *    Keine Datenablage
@@ -35,10 +35,10 @@ Für eine genauere Produktvorstellung haben wir als erstes unsere eigenen Pains,
 *    Austausch unter den Lernenden
 *    Termin finden
 *    Räumlichkeiten finden
-*    Wissen wo wer beim lernen steht
+*    Wissen wo wer beim Lernen steht
 
 **Gains**
-*    nicht gestört werden beim alleine Lernen
+*    Nicht gestört werden beim alleine Lernen
 *    Whatsapp Gruppenchats
 *    Netzwerk
 *    Übungslektionen
@@ -54,48 +54,42 @@ Für eine genauere Produktvorstellung haben wir als erstes unsere eigenen Pains,
 
 ### Marius:
 **Pains**
-*    motivation
-*    überblick behalten
-*    leute (menschen) treffen
-*    alle haben verschiedene zeitplanse
-*    bedingungslose einsamkeit
+*    Motivation
+*    Überblick behalten
+*    Leute (menschen) treffen
+*    Alle haben verschiedene zeitplanse
+*    Bedingungslose einsamkeit
 
 **Gains**
-*    belohnung
-*    sachen abhaken
-*    austausch
-*    vergleich
-*    ablenkung (gezielte)
+*    Belohnung
+*    Sachen abhaken
+*    Austausch
+*    Vergleich
+*    Gezielte Ablenkung
 
 **Jobs**
-*    lernen
-*    essen
-*    schlafen
-*    austauschen
-*    netflix
-*    facebook
-*    pizza
-*    kneipe
-*    verhütung
-*    aspirin
+*    Lernen
+*    Essen
+*    Schlafen
+*    Austauschen
     
 
 ### Steffi:
 **Pains**
-*    alleine lernen
-*    fehlende Motivation
-*    suche Ablenkung
-*    kein Networking
+*    Alleine lernen
+*    Fehlende Motivation
+*    Suche Ablenkung
+*    Kein Networking
 
 **Gains**
-*    ungestört
-*    gute Konzentrationsphasen
+*    Ungestört
+*    Gute Konzentrationsphasen
 *    Lerninhalt kann individuell angepasst werden
 
 **Jobs**
 *    Inhalte vorbereiten
-*    sich alleine organisieren
-*    wo lerne ich / Ort festlegen
+*    Sich alleine organisieren
+*    Wo lerne ich / Ort festlegen
 *    Abmachen / mit wem lerne ich
     
 ## Interview Tipps
