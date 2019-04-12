@@ -8,16 +8,16 @@ changed: "2019-04-11"
 22.03.2019 – Guerilla Testing heisst der erste Stop. Inputs erklären uns den Ablauf eines realen Usability Walkthrough. Das Briefing bereitet die Testpersonen vor. Der Walkthrough wird von einer Person geleitet. Videos oder Audios sind willkommen. Post-Interviews, EMO-Cards oder der SUS Fragebogen schliesst den Walkthrough ab.
 
 ## Was haben wir gelernt?
-Wir lernen das Guerilla Testing kennen und schauen diesbezüglich ein paar reale Usability Walkthroughs. Idealerweise plant man mehrere Walkthoughs mit jeweils fünf Personen. Die Wahrscheinlichkeit, dass diese fünf Personen verschiedene Ansichten haben ist gross. Die Wahrscheinlichkeit, dass mehr Tester mehr unterschiedliches Feedback bringen, wird immer kleiner.
+Wir lernen das Guerilla Testing kennen und schauen diesbezüglich ein paar reale Usability Walkthroughs an. Idealerweise plant man mehrere Walkthoughs mit jeweils fünf Personen. Die Wahrscheinlichkeit, dass diese fünf Personen verschiedene Ansichten haben ist gross. Die Wahrscheinlichkeit, dass mehr Tester mehr unterschiedliches Feedback bringen, wird immer kleiner.
 
 ### Usability Walkthrough
-Das Wichtigste ist wohl die Vorbereitung. Wir müssen gezielt unsere Fragen zum Prototypen stellen können um gezielt Feedback zu erhalten. Bevor wir starten erklären wir worum es genau geht und das wir nicht die Person an sich, sondern under Produkt testen wollen. Die Testperson kann also nichts falsch machen und auch keine blöden Fragen stellen. Stellt sie uns doch Fragen, stellen wir ihr eine Frage zurück. Was erwartet die Person was passiert?
+Das Wichtigste ist wohl die Vorbereitung. Wir müssen gezielt unsere Fragen zum Prototypen stellen können um gezielt Feedback zu erhalten. Bevor wir starten erklären wir worum es genau geht und das wir nicht die Person an sich, sondern unser Produkt testen wollen. Die Testperson kann also nichts falsch machen und auch keine blöden Fragen stellen. Stellt sie uns doch Fragen, stellen wir ihr eine Frage zurück. Was erwartet die Person was passiert?
 
 ```html
 «Paper Prototype oder Digital Prototype?»
 ```
 
-Je nachdem was wir testen wollen, eignet sich ein Prototyp aus Papier besser oder schlechter. Geht es um Abläufe, Funktionalität oder Terminologie kann gut damit getestet werden. Im Bereich vom Look & Feel, dynamischen Aspekten und Grössen von Elementen sollte man doch besser die digitale Variante vorlegen.
+Je nachdem was wir testen wollen, eignet sich ein Prototyp aus Papier besser oder schlechter. Geht es um Abläufe, Funktionalität oder Terminologie kann gut damit getestet werden. Im Bereich vom Look & Feel, dynamischen Aspekten und Grössen von Elementen sollte man jedoch besser eine digitale Variante vorlegen.
 
 ## Testing & Post-Interview
 Die Testings liefen ganz gut. Wir haben gelernt auf die Testpersonen einzugehen und gezielt Informationen herauszufiltern. Wichtig ist, immer offen zu bleiben und noch einmal – dem Tester keine Antworten in den Mund zu legen. Bei den Post-Interviews bekamen wir gutes Feedback, soweit haben wir einiges richtig gemacht.
