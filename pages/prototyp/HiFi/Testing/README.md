@@ -5,7 +5,7 @@ changed: "2019-03-16"
 ---
 
 # Testing HiFi
-**Im ersten Testing unseres HiFi Prototypen ging es darum herauszufinden ob in unserem Design grobe Fehler in der Gestaltung des User-Interface eingeschlichen hatten.**
+**Im ersten Testing unseres HiFi Prototypen ging es darum herauszufinden ob sich in unserem Design grobe Fehler in der Gestaltung des User-Interface eingeschlichen hatten.**
 
 ## Testing Grundsätze
 
@@ -13,14 +13,14 @@ changed: "2019-03-16"
 Grundsätzlich lässt sich ein Testing in 3 Phasen unterteilen. Das Briefing, die Durchführung und das Post-Session Interview. Wichtig ist es die richtigen Fragen zu stellen und der Testperson immer das Gefühl zu geben, dass nicht sie sondern das Produkt getestet wird.
 
 ### Wie stelle ich die richtigen Fragen?
-Wichtig ist es realistische Situation zu skizzieren und reale Aufgaben stellen. Als Testperson sollte man keine Fragen beantworten sondern diese immer zurückgeben. Zusätzlich darf in eine Frage niemals eine persönliche Meinung hineinfliessen oder ein Hinweis gegeben werden was dort genau passiert.
+Wichtig ist es realistische Situation zu skizzieren und reale Aufgaben stellen. Als testende Person sollte man keine Fragen beantworten sondern diese immer zurückgeben. Zusätzlich darf in eine Frage niemals eine persönliche Meinung hineinfliessen oder ein Hinweis gegeben werden was bei einer Aktion genau passiert.
 
 ```html
 Was sind gute Fragen?
 2. Was sehen Sie hier?
 3. Was tun Sie als nächstes?
 4. Was erwarten Sie was hier passiert?
-5. Ist dass passiert, was Sie erwartet haben?
+5. Ist das passiert, was Sie erwartet haben?
 6. Ist das gut oder schlecht?
 ```
 
@@ -46,21 +46,21 @@ Willkommen Herr/Frau Muster, ich heisse Severin Kilchhofer. Ich bin der Testleit
 
 **1. Was erwartest du wenn du dich anmeldest?**
 
-Ich kann mich dort anmelden, und mich mit Socialmedia einloggen. Screen ist klar.
+Ich kann mich dort anmelden, oder mich mit Socialmedia einloggen. Screen ist klar.
 
 **2. Eventsite**
 
-Ich komme zu einer Übersicht mit Events, und sehe bei welchen Events ich teilnehem. 
+Ich komme zu einer Übersicht mit Events, und sehe bei welchen Events ich teilneheme. 
 
 **2. Wenn ich eine Gruppe sehe, wie komme ich wieder weg von diesem Screen.**
 
 Mir ist nicht klar wie ich zwischen den Elementen switchen kann. Warum ist es verschwommen? (Card wird nicht erkannt). Icon auf Bild ist problematisch.
 
-**3. Gruppen Screnn / erstellen**
+**3. Gruppen Screen / erstellen**
 
-Mir ist nicht klar ob das ein Secondary-Button ist oder ob dieser innaktiv ist. Der Name der Gruppe ist nicht ganz klar – machen die nur Biologie imn Park (Wording-Problem)
+Mir ist nicht klar ob das ein Secondary-Button ist oder ob dieser inaktiv ist. Der Name der Gruppe ist nicht ganz klar – machen die nur Biologie im Park? (Wording-Problem)
 
-**4. Du würdest ger deine Daten anpassen.**
+**4. Du würdest gerne deine Daten anpassen.**
 
 Wird einfach gefunden unter Profil bearbeiten.
 
@@ -78,11 +78,11 @@ Navigationselement ist unklar. Es geht unter auf diesem Screen, es sollte besser
 
 **7. Feedback bei Teilnahme**
 
-Teilnahem Button macht sinn, jedoch erscheint das Feedback am falschen Ort. Es sollte dort Feedback geben wo die interaktion erfolgt.
+Teilnahme Button macht Sinn, jedoch erscheint das Feedback am falschen Ort. Es sollte dort Feedback geben wo die interaktion erfolgt.
 
 **8. Vergangene Events**
 
-Wirkt innaktiv und es ist nicht klar dass diese angeaschaut werden können. 
+Wirkt inaktiv und es ist nicht klar dass diese angeaschaut werden können. 
 
 **9. Was würdest du noch wünschen**
 Feedback bei Gruppenbeitritt.
@@ -91,9 +91,9 @@ Feedback bei Gruppenbeitritt.
 ### Personal
 * Sicherlich nützlich für jemanden der neu in der Stadt ist und gerne in der Gruppe lernt.
 ### Fast
-* Sehr einfache Navigation. Durch den Prototype und aufgeräumt.
+* Sehr einfache und aufgeräumte Navigation durch den Prototype.
 ### Hard to Use
-* Nicht die ganze App ist nicht Hard to Use, Card Design hat zu viele Elemente, Drop nicht klar. Navi braucht es nicht, Ebene zu tief.
+* Nicht die ganze App ist Hard to Use, Card Design hat zu viele Elemente, Drop nicht klar. Navi braucht es nicht, Ebene zu tief.
 ### Clear
 * Aufteilung ist gut, und Signalfarbe wird sehr gut eingesetzt!
 
